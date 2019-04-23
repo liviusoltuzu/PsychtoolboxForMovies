@@ -1,0 +1,85 @@
+Each line starts with a COMMAND keyword and continues with a list of PARAMETERS and VALUES
+All keyword/parameters/values are separated by tab (not spaces)
+Parameters can be listed in any order
+
+example: command	param1	value1	param2	value2 paramN	valueN
+
+
+COMMANDS:
+load
+play
+playRF
+wait
+newblock
+blankscreen
+%
+
+DESCRIPTION AND PARAMETERS
+
+--------------------------------
+'load': Indicates the paths of movies and their unique bitcodes
+	path [mandatory, can contain spaces]
+	index [mandatory]
+example:
+	load path	C:\my folder\my gratings	index	1
+	load	index	2	path	C:\my folder\my bars
+
+
+--------------------------------
+'play': Part of the protocol. Runs one movie
+	index [mandatory]
+	duration [optional, in seconds]
+	framerate [optional, in fps, recommended divisors of monitor refresh rate: eg 10, 15, 20, 30, 60 for a 60Hz monitor]
+	interpolation [optional,'coarse' or 'nice']
+example:
+	play	index	1	duration	5	framerate	30	interpolation coarse
+	play	index	125	interpolation	nice	framerate	15
+
+
+--------------------------------
+'wait': 
+	duration [mandatory, in seconds]
+example:
+	wait	duration	0.5
+
+
+--------------------------------
+'newblock': A separator. Useful when some movies repeat many times 
+example:
+	% trial 1
+	newblock 1
+	play	index	1
+	play	index	2
+
+	% trial 2: same movies but shuffled
+	newblock	2
+	play	index	2
+	play	index	1
+
+
+--------------------------------
+'blankscreen': Black screen, if spontaneous activity is needed
+	duration [mandatory, in seconds]
+example:
+	% stimulus and then blank screen
+	play	index	15	duration	20
+	blankscreen	duration	20
+
+
+--------------------------------
+'playRF': plays stimuli that have one bitcode per movie only, such as drifting bars
+example:
+	load	index	421	path	example movies\0421 RFmap Rot135 Th03 Ph01
+	
+	% then play a drifting bar
+	playRF	index	421	framerate	30 
+
+
+--------------------------------
+% comments and empty lines are ignored
+example:
+    % these are my movies	- this line will be ignored
+    load    path    C:\movie    index   77
+							- this line will be ignored
+    % and this is the protocol
+    play    index   77		- this line will be ignored

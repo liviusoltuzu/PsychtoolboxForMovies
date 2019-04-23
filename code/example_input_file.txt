@@ -1,0 +1,20 @@
+% these are the movies
+load	index	1	path	example movies\0001 whitenoise
+load	index	2	path	example movies\whitenoise 2
+load	index	3	path	example movies\whitenoise 3
+load	index	124	path	example movies\0124 RFmap Rot000 Th03 Ph04
+load	index	421	path	example movies\0421 RFmap Rot135 Th03 Ph01
+
+% and this is the protocol
+newblock	1
+play	index	1	framerate	30	interpolation	nice
+play	index	2	framerate	20	interpolation	coarse
+wait	duration	0.5
+playRF	index	124	framerate	30
+playRF	index	421	framerate	30
+
+newblock	2
+blankscreen	duration	2
+play	index	3	framerate	30	interpolation	coarse
+playRF	index	421	framerate	10
+playRF	index	124	framerate	15

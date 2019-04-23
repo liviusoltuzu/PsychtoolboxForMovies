@@ -1,0 +1,4992 @@
+% videos
+load	path	/path/0042	index	42
+load	path	/path/0045	index	45
+load	path	/path/0046	index	46
+load	path	/path/0047	index	47
+load	path	/path/0048	index	48
+load	path	/path/0049	index	49
+load	path	/path/0050	index	50
+load	path	/path/0051	index	51
+load	path	/path/0052	index	52
+load	path	/path/0102 RFmap Rot000 Th01 Ph02	index	102
+load	path	/path/0103 RFmap Rot000 Th01 Ph03	index	103
+load	path	/path/0104 RFmap Rot000 Th01 Ph04	index	104
+load	path	/path/0105 RFmap Rot000 Th01 Ph05	index	105
+load	path	/path/0106 RFmap Rot000 Th01 Ph06	index	106
+load	path	/path/0111 RFmap Rot000 Th02 Ph01	index	111
+load	path	/path/0112 RFmap Rot000 Th02 Ph02	index	112
+load	path	/path/0113 RFmap Rot000 Th02 Ph03	index	113
+load	path	/path/0114 RFmap Rot000 Th02 Ph04	index	114
+load	path	/path/0115 RFmap Rot000 Th02 Ph05	index	115
+load	path	/path/0116 RFmap Rot000 Th02 Ph06	index	116
+load	path	/path/0117 RFmap Rot000 Th02 Ph07	index	117
+load	path	/path/0118 RFmap Rot000 Th11 Ph02	index	118
+load	path	/path/0121 RFmap Rot000 Th03 Ph01	index	121
+load	path	/path/0122 RFmap Rot000 Th03 Ph02	index	122
+load	path	/path/0123 RFmap Rot000 Th03 Ph03	index	123
+load	path	/path/0124 RFmap Rot000 Th03 Ph04	index	124
+load	path	/path/0125 RFmap Rot000 Th03 Ph05	index	125
+load	path	/path/0126 RFmap Rot000 Th03 Ph06	index	126
+load	path	/path/0127 RFmap Rot000 Th03 Ph07	index	127
+load	path	/path/0128 RFmap Rot000 Th11 Ph03	index	128
+load	path	/path/0131 RFmap Rot000 Th04 Ph01	index	131
+load	path	/path/0132 RFmap Rot000 Th04 Ph02	index	132
+load	path	/path/0133 RFmap Rot000 Th04 Ph03	index	133
+load	path	/path/0134 RFmap Rot000 Th04 Ph04	index	134
+load	path	/path/0135 RFmap Rot000 Th04 Ph05	index	135
+load	path	/path/0136 RFmap Rot000 Th04 Ph06	index	136
+load	path	/path/0137 RFmap Rot000 Th04 Ph07	index	137
+load	path	/path/0138 RFmap Rot000 Th11 Ph04	index	138
+load	path	/path/0141 RFmap Rot000 Th05 Ph01	index	141
+load	path	/path/0142 RFmap Rot000 Th05 Ph02	index	142
+load	path	/path/0143 RFmap Rot000 Th05 Ph03	index	143
+load	path	/path/0144 RFmap Rot000 Th05 Ph04	index	144
+load	path	/path/0145 RFmap Rot000 Th05 Ph05	index	145
+load	path	/path/0146 RFmap Rot000 Th05 Ph06	index	146
+load	path	/path/0147 RFmap Rot000 Th05 Ph07	index	147
+load	path	/path/0148 RFmap Rot000 Th11 Ph05	index	148
+load	path	/path/0151 RFmap Rot000 Th06 Ph01	index	151
+load	path	/path/0152 RFmap Rot000 Th06 Ph02	index	152
+load	path	/path/0153 RFmap Rot000 Th06 Ph03	index	153
+load	path	/path/0154 RFmap Rot000 Th06 Ph04	index	154
+load	path	/path/0155 RFmap Rot000 Th06 Ph05	index	155
+load	path	/path/0156 RFmap Rot000 Th06 Ph06	index	156
+load	path	/path/0157 RFmap Rot000 Th06 Ph07	index	157
+load	path	/path/0158 RFmap Rot000 Th11 Ph06	index	158
+load	path	/path/0161 RFmap Rot000 Th07 Ph01	index	161
+load	path	/path/0162 RFmap Rot000 Th07 Ph02	index	162
+load	path	/path/0163 RFmap Rot000 Th07 Ph03	index	163
+load	path	/path/0164 RFmap Rot000 Th07 Ph04	index	164
+load	path	/path/0165 RFmap Rot000 Th07 Ph05	index	165
+load	path	/path/0166 RFmap Rot000 Th07 Ph06	index	166
+load	path	/path/0167 RFmap Rot000 Th07 Ph07	index	167
+load	path	/path/0171 RFmap Rot000 Th08 Ph01	index	171
+load	path	/path/0172 RFmap Rot000 Th08 Ph02	index	172
+load	path	/path/0173 RFmap Rot000 Th08 Ph03	index	173
+load	path	/path/0174 RFmap Rot000 Th08 Ph04	index	174
+load	path	/path/0175 RFmap Rot000 Th08 Ph05	index	175
+load	path	/path/0176 RFmap Rot000 Th08 Ph06	index	176
+load	path	/path/0177 RFmap Rot000 Th08 Ph07	index	177
+load	path	/path/0181 RFmap Rot000 Th09 Ph01	index	181
+load	path	/path/0182 RFmap Rot000 Th09 Ph02	index	182
+load	path	/path/0183 RFmap Rot000 Th09 Ph03	index	183
+load	path	/path/0184 RFmap Rot000 Th09 Ph04	index	184
+load	path	/path/0185 RFmap Rot000 Th09 Ph05	index	185
+load	path	/path/0186 RFmap Rot000 Th09 Ph06	index	186
+load	path	/path/0187 RFmap Rot000 Th09 Ph07	index	187
+load	path	/path/0191 RFmap Rot000 Th10 Ph01	index	191
+load	path	/path/0192 RFmap Rot000 Th10 Ph02	index	192
+load	path	/path/0193 RFmap Rot000 Th10 Ph03	index	193
+load	path	/path/0194 RFmap Rot000 Th10 Ph04	index	194
+load	path	/path/0195 RFmap Rot000 Th10 Ph05	index	195
+load	path	/path/0196 RFmap Rot000 Th10 Ph06	index	196
+load	path	/path/0197 RFmap Rot000 Th10 Ph07	index	197
+load	path	/path/0202 RFmap Rot045 Th01 Ph02	index	202
+load	path	/path/0203 RFmap Rot045 Th01 Ph03	index	203
+load	path	/path/0204 RFmap Rot045 Th01 Ph04	index	204
+load	path	/path/0205 RFmap Rot045 Th01 Ph05	index	205
+load	path	/path/0206 RFmap Rot045 Th01 Ph06	index	206
+load	path	/path/0211 RFmap Rot045 Th02 Ph01	index	211
+load	path	/path/0212 RFmap Rot045 Th02 Ph02	index	212
+load	path	/path/0213 RFmap Rot045 Th02 Ph03	index	213
+load	path	/path/0214 RFmap Rot045 Th02 Ph04	index	214
+load	path	/path/0215 RFmap Rot045 Th02 Ph05	index	215
+load	path	/path/0216 RFmap Rot045 Th02 Ph06	index	216
+load	path	/path/0217 RFmap Rot045 Th02 Ph07	index	217
+load	path	/path/0218 RFmap Rot045 Th11 Ph02	index	218
+load	path	/path/0221 RFmap Rot045 Th03 Ph01	index	221
+load	path	/path/0222 RFmap Rot045 Th03 Ph02	index	222
+load	path	/path/0223 RFmap Rot045 Th03 Ph03	index	223
+load	path	/path/0224 RFmap Rot045 Th03 Ph04	index	224
+load	path	/path/0225 RFmap Rot045 Th03 Ph05	index	225
+load	path	/path/0226 RFmap Rot045 Th03 Ph06	index	226
+load	path	/path/0227 RFmap Rot045 Th03 Ph07	index	227
+load	path	/path/0228 RFmap Rot045 Th11 Ph03	index	228
+load	path	/path/0231 RFmap Rot045 Th04 Ph01	index	231
+load	path	/path/0232 RFmap Rot045 Th04 Ph02	index	232
+load	path	/path/0233 RFmap Rot045 Th04 Ph03	index	233
+load	path	/path/0234 RFmap Rot045 Th04 Ph04	index	234
+load	path	/path/0235 RFmap Rot045 Th04 Ph05	index	235
+load	path	/path/0236 RFmap Rot045 Th04 Ph06	index	236
+load	path	/path/0237 RFmap Rot045 Th04 Ph07	index	237
+load	path	/path/0238 RFmap Rot045 Th11 Ph04	index	238
+load	path	/path/0241 RFmap Rot045 Th05 Ph01	index	241
+load	path	/path/0242 RFmap Rot045 Th05 Ph02	index	242
+load	path	/path/0243 RFmap Rot045 Th05 Ph03	index	243
+load	path	/path/0244 RFmap Rot045 Th05 Ph04	index	244
+load	path	/path/0245 RFmap Rot045 Th05 Ph05	index	245
+load	path	/path/0246 RFmap Rot045 Th05 Ph06	index	246
+load	path	/path/0247 RFmap Rot045 Th05 Ph07	index	247
+load	path	/path/0248 RFmap Rot045 Th11 Ph05	index	248
+load	path	/path/0251 RFmap Rot045 Th06 Ph01	index	251
+load	path	/path/0252 RFmap Rot045 Th06 Ph02	index	252
+load	path	/path/0253 RFmap Rot045 Th06 Ph03	index	253
+load	path	/path/0254 RFmap Rot045 Th06 Ph04	index	254
+load	path	/path/0255 RFmap Rot045 Th06 Ph05	index	255
+load	path	/path/0256 RFmap Rot045 Th06 Ph06	index	256
+load	path	/path/0257 RFmap Rot045 Th06 Ph07	index	257
+load	path	/path/0258 RFmap Rot045 Th11 Ph06	index	258
+load	path	/path/0261 RFmap Rot045 Th07 Ph01	index	261
+load	path	/path/0262 RFmap Rot045 Th07 Ph02	index	262
+load	path	/path/0263 RFmap Rot045 Th07 Ph03	index	263
+load	path	/path/0264 RFmap Rot045 Th07 Ph04	index	264
+load	path	/path/0265 RFmap Rot045 Th07 Ph05	index	265
+load	path	/path/0266 RFmap Rot045 Th07 Ph06	index	266
+load	path	/path/0267 RFmap Rot045 Th07 Ph07	index	267
+load	path	/path/0271 RFmap Rot045 Th08 Ph01	index	271
+load	path	/path/0272 RFmap Rot045 Th08 Ph02	index	272
+load	path	/path/0273 RFmap Rot045 Th08 Ph03	index	273
+load	path	/path/0274 RFmap Rot045 Th08 Ph04	index	274
+load	path	/path/0275 RFmap Rot045 Th08 Ph05	index	275
+load	path	/path/0276 RFmap Rot045 Th08 Ph06	index	276
+load	path	/path/0277 RFmap Rot045 Th08 Ph07	index	277
+load	path	/path/0281 RFmap Rot045 Th09 Ph01	index	281
+load	path	/path/0282 RFmap Rot045 Th09 Ph02	index	282
+load	path	/path/0283 RFmap Rot045 Th09 Ph03	index	283
+load	path	/path/0284 RFmap Rot045 Th09 Ph04	index	284
+load	path	/path/0285 RFmap Rot045 Th09 Ph05	index	285
+load	path	/path/0286 RFmap Rot045 Th09 Ph06	index	286
+load	path	/path/0287 RFmap Rot045 Th09 Ph07	index	287
+load	path	/path/0291 RFmap Rot045 Th10 Ph01	index	291
+load	path	/path/0292 RFmap Rot045 Th10 Ph02	index	292
+load	path	/path/0293 RFmap Rot045 Th10 Ph03	index	293
+load	path	/path/0294 RFmap Rot045 Th10 Ph04	index	294
+load	path	/path/0295 RFmap Rot045 Th10 Ph05	index	295
+load	path	/path/0296 RFmap Rot045 Th10 Ph06	index	296
+load	path	/path/0297 RFmap Rot045 Th10 Ph07	index	297
+load	path	/path/0302 RFmap Rot090 Th01 Ph02	index	302
+load	path	/path/0303 RFmap Rot090 Th01 Ph03	index	303
+load	path	/path/0304 RFmap Rot090 Th01 Ph04	index	304
+load	path	/path/0305 RFmap Rot090 Th01 Ph05	index	305
+load	path	/path/0306 RFmap Rot090 Th01 Ph06	index	306
+load	path	/path/0311 RFmap Rot090 Th02 Ph01	index	311
+load	path	/path/0312 RFmap Rot090 Th02 Ph02	index	312
+load	path	/path/0313 RFmap Rot090 Th02 Ph03	index	313
+load	path	/path/0314 RFmap Rot090 Th02 Ph04	index	314
+load	path	/path/0315 RFmap Rot090 Th02 Ph05	index	315
+load	path	/path/0316 RFmap Rot090 Th02 Ph06	index	316
+load	path	/path/0317 RFmap Rot090 Th02 Ph07	index	317
+load	path	/path/0318 RFmap Rot090 Th11 Ph02	index	318
+load	path	/path/0321 RFmap Rot090 Th03 Ph01	index	321
+load	path	/path/0322 RFmap Rot090 Th03 Ph02	index	322
+load	path	/path/0323 RFmap Rot090 Th03 Ph03	index	323
+load	path	/path/0324 RFmap Rot090 Th03 Ph04	index	324
+load	path	/path/0325 RFmap Rot090 Th03 Ph05	index	325
+load	path	/path/0326 RFmap Rot090 Th03 Ph06	index	326
+load	path	/path/0327 RFmap Rot090 Th03 Ph07	index	327
+load	path	/path/0328 RFmap Rot090 Th11 Ph03	index	328
+load	path	/path/0331 RFmap Rot090 Th04 Ph01	index	331
+load	path	/path/0332 RFmap Rot090 Th04 Ph02	index	332
+load	path	/path/0333 RFmap Rot090 Th04 Ph03	index	333
+load	path	/path/0334 RFmap Rot090 Th04 Ph04	index	334
+load	path	/path/0335 RFmap Rot090 Th04 Ph05	index	335
+load	path	/path/0336 RFmap Rot090 Th04 Ph06	index	336
+load	path	/path/0337 RFmap Rot090 Th04 Ph07	index	337
+load	path	/path/0338 RFmap Rot090 Th11 Ph04	index	338
+load	path	/path/0341 RFmap Rot090 Th05 Ph01	index	341
+load	path	/path/0342 RFmap Rot090 Th05 Ph02	index	342
+load	path	/path/0343 RFmap Rot090 Th05 Ph03	index	343
+load	path	/path/0344 RFmap Rot090 Th05 Ph04	index	344
+load	path	/path/0345 RFmap Rot090 Th05 Ph05	index	345
+load	path	/path/0346 RFmap Rot090 Th05 Ph06	index	346
+load	path	/path/0347 RFmap Rot090 Th05 Ph07	index	347
+load	path	/path/0348 RFmap Rot090 Th11 Ph05	index	348
+load	path	/path/0351 RFmap Rot090 Th06 Ph01	index	351
+load	path	/path/0352 RFmap Rot090 Th06 Ph02	index	352
+load	path	/path/0353 RFmap Rot090 Th06 Ph03	index	353
+load	path	/path/0354 RFmap Rot090 Th06 Ph04	index	354
+load	path	/path/0355 RFmap Rot090 Th06 Ph05	index	355
+load	path	/path/0356 RFmap Rot090 Th06 Ph06	index	356
+load	path	/path/0357 RFmap Rot090 Th06 Ph07	index	357
+load	path	/path/0358 RFmap Rot090 Th11 Ph06	index	358
+load	path	/path/0361 RFmap Rot090 Th07 Ph01	index	361
+load	path	/path/0362 RFmap Rot090 Th07 Ph02	index	362
+load	path	/path/0363 RFmap Rot090 Th07 Ph03	index	363
+load	path	/path/0364 RFmap Rot090 Th07 Ph04	index	364
+load	path	/path/0365 RFmap Rot090 Th07 Ph05	index	365
+load	path	/path/0366 RFmap Rot090 Th07 Ph06	index	366
+load	path	/path/0367 RFmap Rot090 Th07 Ph07	index	367
+load	path	/path/0371 RFmap Rot090 Th08 Ph01	index	371
+load	path	/path/0372 RFmap Rot090 Th08 Ph02	index	372
+load	path	/path/0373 RFmap Rot090 Th08 Ph03	index	373
+load	path	/path/0374 RFmap Rot090 Th08 Ph04	index	374
+load	path	/path/0375 RFmap Rot090 Th08 Ph05	index	375
+load	path	/path/0376 RFmap Rot090 Th08 Ph06	index	376
+load	path	/path/0377 RFmap Rot090 Th08 Ph07	index	377
+load	path	/path/0381 RFmap Rot090 Th09 Ph01	index	381
+load	path	/path/0382 RFmap Rot090 Th09 Ph02	index	382
+load	path	/path/0383 RFmap Rot090 Th09 Ph03	index	383
+load	path	/path/0384 RFmap Rot090 Th09 Ph04	index	384
+load	path	/path/0385 RFmap Rot090 Th09 Ph05	index	385
+load	path	/path/0386 RFmap Rot090 Th09 Ph06	index	386
+load	path	/path/0387 RFmap Rot090 Th09 Ph07	index	387
+load	path	/path/0391 RFmap Rot090 Th10 Ph01	index	391
+load	path	/path/0392 RFmap Rot090 Th10 Ph02	index	392
+load	path	/path/0393 RFmap Rot090 Th10 Ph03	index	393
+load	path	/path/0394 RFmap Rot090 Th10 Ph04	index	394
+load	path	/path/0395 RFmap Rot090 Th10 Ph05	index	395
+load	path	/path/0396 RFmap Rot090 Th10 Ph06	index	396
+load	path	/path/0397 RFmap Rot090 Th10 Ph07	index	397
+load	path	/path/0402 RFmap Rot135 Th01 Ph02	index	402
+load	path	/path/0403 RFmap Rot135 Th01 Ph03	index	403
+load	path	/path/0404 RFmap Rot135 Th01 Ph04	index	404
+load	path	/path/0405 RFmap Rot135 Th01 Ph05	index	405
+load	path	/path/0406 RFmap Rot135 Th01 Ph06	index	406
+load	path	/path/0411 RFmap Rot135 Th02 Ph01	index	411
+load	path	/path/0412 RFmap Rot135 Th02 Ph02	index	412
+load	path	/path/0413 RFmap Rot135 Th02 Ph03	index	413
+load	path	/path/0414 RFmap Rot135 Th02 Ph04	index	414
+load	path	/path/0415 RFmap Rot135 Th02 Ph05	index	415
+load	path	/path/0416 RFmap Rot135 Th02 Ph06	index	416
+load	path	/path/0417 RFmap Rot135 Th02 Ph07	index	417
+load	path	/path/0418 RFmap Rot135 Th11 Ph02	index	418
+load	path	/path/0421 RFmap Rot135 Th03 Ph01	index	421
+load	path	/path/0422 RFmap Rot135 Th03 Ph02	index	422
+load	path	/path/0423 RFmap Rot135 Th03 Ph03	index	423
+load	path	/path/0424 RFmap Rot135 Th03 Ph04	index	424
+load	path	/path/0425 RFmap Rot135 Th03 Ph05	index	425
+load	path	/path/0426 RFmap Rot135 Th03 Ph06	index	426
+load	path	/path/0427 RFmap Rot135 Th03 Ph07	index	427
+load	path	/path/0428 RFmap Rot135 Th11 Ph03	index	428
+load	path	/path/0431 RFmap Rot135 Th04 Ph01	index	431
+load	path	/path/0432 RFmap Rot135 Th04 Ph02	index	432
+load	path	/path/0433 RFmap Rot135 Th04 Ph03	index	433
+load	path	/path/0434 RFmap Rot135 Th04 Ph04	index	434
+load	path	/path/0435 RFmap Rot135 Th04 Ph05	index	435
+load	path	/path/0436 RFmap Rot135 Th04 Ph06	index	436
+load	path	/path/0437 RFmap Rot135 Th04 Ph07	index	437
+load	path	/path/0438 RFmap Rot135 Th11 Ph04	index	438
+load	path	/path/0441 RFmap Rot135 Th05 Ph01	index	441
+load	path	/path/0442 RFmap Rot135 Th05 Ph02	index	442
+load	path	/path/0443 RFmap Rot135 Th05 Ph03	index	443
+load	path	/path/0444 RFmap Rot135 Th05 Ph04	index	444
+load	path	/path/0445 RFmap Rot135 Th05 Ph05	index	445
+load	path	/path/0446 RFmap Rot135 Th05 Ph06	index	446
+load	path	/path/0447 RFmap Rot135 Th05 Ph07	index	447
+load	path	/path/0448 RFmap Rot135 Th11 Ph05	index	448
+load	path	/path/0451 RFmap Rot135 Th06 Ph01	index	451
+load	path	/path/0452 RFmap Rot135 Th06 Ph02	index	452
+load	path	/path/0453 RFmap Rot135 Th06 Ph03	index	453
+load	path	/path/0454 RFmap Rot135 Th06 Ph04	index	454
+load	path	/path/0455 RFmap Rot135 Th06 Ph05	index	455
+load	path	/path/0456 RFmap Rot135 Th06 Ph06	index	456
+load	path	/path/0457 RFmap Rot135 Th06 Ph07	index	457
+load	path	/path/0458 RFmap Rot135 Th11 Ph06	index	458
+load	path	/path/0461 RFmap Rot135 Th07 Ph01	index	461
+load	path	/path/0462 RFmap Rot135 Th07 Ph02	index	462
+load	path	/path/0463 RFmap Rot135 Th07 Ph03	index	463
+load	path	/path/0464 RFmap Rot135 Th07 Ph04	index	464
+load	path	/path/0465 RFmap Rot135 Th07 Ph05	index	465
+load	path	/path/0466 RFmap Rot135 Th07 Ph06	index	466
+load	path	/path/0467 RFmap Rot135 Th07 Ph07	index	467
+load	path	/path/0471 RFmap Rot135 Th08 Ph01	index	471
+load	path	/path/0472 RFmap Rot135 Th08 Ph02	index	472
+load	path	/path/0473 RFmap Rot135 Th08 Ph03	index	473
+load	path	/path/0474 RFmap Rot135 Th08 Ph04	index	474
+load	path	/path/0475 RFmap Rot135 Th08 Ph05	index	475
+load	path	/path/0476 RFmap Rot135 Th08 Ph06	index	476
+load	path	/path/0477 RFmap Rot135 Th08 Ph07	index	477
+load	path	/path/0481 RFmap Rot135 Th09 Ph01	index	481
+load	path	/path/0482 RFmap Rot135 Th09 Ph02	index	482
+load	path	/path/0483 RFmap Rot135 Th09 Ph03	index	483
+load	path	/path/0484 RFmap Rot135 Th09 Ph04	index	484
+load	path	/path/0485 RFmap Rot135 Th09 Ph05	index	485
+load	path	/path/0486 RFmap Rot135 Th09 Ph06	index	486
+load	path	/path/0487 RFmap Rot135 Th09 Ph07	index	487
+load	path	/path/0491 RFmap Rot135 Th10 Ph01	index	491
+load	path	/path/0492 RFmap Rot135 Th10 Ph02	index	492
+load	path	/path/0493 RFmap Rot135 Th10 Ph03	index	493
+load	path	/path/0494 RFmap Rot135 Th10 Ph04	index	494
+load	path	/path/0495 RFmap Rot135 Th10 Ph05	index	495
+load	path	/path/0496 RFmap Rot135 Th10 Ph06	index	496
+load	path	/path/0497 RFmap Rot135 Th10 Ph07	index	497
+
+% sequence
+
+newblock	1
+wait	duration	0.200
+playRF	index	162
+wait	duration	0.200
+playRF	index	127
+wait	duration	0.200
+playRF	index	114
+wait	duration	0.200
+playRF	index	184
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	177
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	161
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	135
+wait	duration	0.200
+playRF	index	137
+wait	duration	0.200
+playRF	index	187
+wait	duration	0.200
+playRF	index	121
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	124
+wait	duration	0.200
+playRF	index	186
+wait	duration	0.200
+playRF	index	112
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	113
+wait	duration	0.200
+playRF	index	183
+wait	duration	0.200
+playRF	index	103
+wait	duration	0.200
+playRF	index	172
+wait	duration	0.200
+playRF	index	104
+wait	duration	0.200
+playRF	index	125
+wait	duration	0.200
+playRF	index	163
+wait	duration	0.200
+playRF	index	144
+wait	duration	0.200
+playRF	index	151
+wait	duration	0.200
+playRF	index	118
+wait	duration	0.200
+playRF	index	102
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	164
+wait	duration	0.200
+playRF	index	148
+wait	duration	0.200
+playRF	index	142
+wait	duration	0.200
+playRF	index	154
+wait	duration	0.200
+playRF	index	136
+wait	duration	0.200
+playRF	index	126
+wait	duration	0.200
+playRF	index	133
+wait	duration	0.200
+playRF	index	131
+wait	duration	0.200
+playRF	index	153
+wait	duration	0.200
+playRF	index	157
+wait	duration	0.200
+playRF	index	158
+wait	duration	0.200
+playRF	index	152
+wait	duration	0.200
+playRF	index	171
+wait	duration	0.200
+playRF	index	182
+wait	duration	0.200
+playRF	index	193
+wait	duration	0.200
+playRF	index	145
+wait	duration	0.200
+playRF	index	111
+wait	duration	0.200
+playRF	index	117
+wait	duration	0.200
+playRF	index	155
+wait	duration	0.200
+playRF	index	147
+wait	duration	0.200
+playRF	index	134
+wait	duration	0.200
+playRF	index	122
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	165
+wait	duration	0.200
+playRF	index	191
+wait	duration	0.200
+playRF	index	181
+wait	duration	0.200
+playRF	index	128
+wait	duration	0.200
+playRF	index	143
+wait	duration	0.200
+playRF	index	106
+wait	duration	0.200
+playRF	index	116
+wait	duration	0.200
+playRF	index	175
+wait	duration	0.200
+playRF	index	156
+wait	duration	0.200
+playRF	index	176
+wait	duration	0.200
+playRF	index	138
+wait	duration	0.200
+playRF	index	174
+wait	duration	0.200
+playRF	index	173
+wait	duration	0.200
+playRF	index	185
+wait	duration	0.200
+playRF	index	146
+wait	duration	0.200
+playRF	index	141
+wait	duration	0.200
+playRF	index	105
+wait	duration	0.200
+playRF	index	192
+wait	duration	0.200
+playRF	index	115
+wait	duration	0.200
+playRF	index	167
+wait	duration	0.200
+playRF	index	166
+wait	duration	0.200
+playRF	index	132
+wait	duration	0.200
+playRF	index	123
+
+newblock	2
+wait	duration	0.200
+playRF	index	205
+wait	duration	0.200
+playRF	index	255
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	277
+wait	duration	0.200
+playRF	index	243
+wait	duration	0.200
+playRF	index	223
+wait	duration	0.200
+playRF	index	274
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	254
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	213
+wait	duration	0.200
+playRF	index	265
+wait	duration	0.200
+playRF	index	276
+wait	duration	0.200
+playRF	index	203
+wait	duration	0.200
+playRF	index	257
+wait	duration	0.200
+playRF	index	272
+wait	duration	0.200
+playRF	index	248
+wait	duration	0.200
+playRF	index	222
+wait	duration	0.200
+playRF	index	204
+wait	duration	0.200
+playRF	index	218
+wait	duration	0.200
+playRF	index	267
+wait	duration	0.200
+playRF	index	233
+wait	duration	0.200
+playRF	index	195
+wait	duration	0.200
+playRF	index	282
+wait	duration	0.200
+playRF	index	246
+wait	duration	0.200
+playRF	index	261
+wait	duration	0.200
+playRF	index	273
+wait	duration	0.200
+playRF	index	284
+wait	duration	0.200
+playRF	index	253
+wait	duration	0.200
+playRF	index	231
+wait	duration	0.200
+playRF	index	197
+wait	duration	0.200
+playRF	index	202
+wait	duration	0.200
+playRF	index	228
+wait	duration	0.200
+playRF	index	256
+wait	duration	0.200
+playRF	index	217
+wait	duration	0.200
+playRF	index	242
+wait	duration	0.200
+playRF	index	237
+wait	duration	0.200
+playRF	index	194
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	196
+wait	duration	0.200
+playRF	index	264
+wait	duration	0.200
+playRF	index	216
+wait	duration	0.200
+playRF	index	252
+wait	duration	0.200
+playRF	index	285
+wait	duration	0.200
+playRF	index	245
+wait	duration	0.200
+playRF	index	238
+wait	duration	0.200
+playRF	index	275
+wait	duration	0.200
+playRF	index	227
+wait	duration	0.200
+playRF	index	251
+wait	duration	0.200
+playRF	index	211
+wait	duration	0.200
+playRF	index	283
+wait	duration	0.200
+playRF	index	225
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	226
+wait	duration	0.200
+playRF	index	281
+wait	duration	0.200
+playRF	index	258
+wait	duration	0.200
+playRF	index	263
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	221
+wait	duration	0.200
+playRF	index	224
+wait	duration	0.200
+playRF	index	235
+wait	duration	0.200
+playRF	index	215
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	234
+wait	duration	0.200
+playRF	index	232
+wait	duration	0.200
+playRF	index	262
+wait	duration	0.200
+playRF	index	236
+wait	duration	0.200
+playRF	index	244
+wait	duration	0.200
+playRF	index	214
+wait	duration	0.200
+playRF	index	206
+wait	duration	0.200
+playRF	index	271
+wait	duration	0.200
+playRF	index	212
+wait	duration	0.200
+playRF	index	241
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	266
+wait	duration	0.200
+playRF	index	247
+
+newblock	3
+wait	duration	0.200
+playRF	index	372
+wait	duration	0.200
+playRF	index	306
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	295
+wait	duration	0.200
+playRF	index	322
+wait	duration	0.200
+playRF	index	376
+wait	duration	0.200
+playRF	index	304
+wait	duration	0.200
+playRF	index	352
+wait	duration	0.200
+playRF	index	297
+wait	duration	0.200
+playRF	index	323
+wait	duration	0.200
+playRF	index	364
+wait	duration	0.200
+playRF	index	317
+wait	duration	0.200
+playRF	index	321
+wait	duration	0.200
+playRF	index	363
+wait	duration	0.200
+playRF	index	318
+wait	duration	0.200
+playRF	index	292
+wait	duration	0.200
+playRF	index	337
+wait	duration	0.200
+playRF	index	287
+wait	duration	0.200
+playRF	index	286
+wait	duration	0.200
+playRF	index	338
+wait	duration	0.200
+playRF	index	365
+wait	duration	0.200
+playRF	index	335
+wait	duration	0.200
+playRF	index	357
+wait	duration	0.200
+playRF	index	326
+wait	duration	0.200
+playRF	index	355
+wait	duration	0.200
+playRF	index	377
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	327
+wait	duration	0.200
+playRF	index	343
+wait	duration	0.200
+playRF	index	362
+wait	duration	0.200
+playRF	index	291
+wait	duration	0.200
+playRF	index	361
+wait	duration	0.200
+playRF	index	351
+wait	duration	0.200
+playRF	index	342
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	313
+wait	duration	0.200
+playRF	index	296
+wait	duration	0.200
+playRF	index	347
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	346
+wait	duration	0.200
+playRF	index	348
+wait	duration	0.200
+playRF	index	344
+wait	duration	0.200
+playRF	index	324
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	316
+wait	duration	0.200
+playRF	index	336
+wait	duration	0.200
+playRF	index	332
+wait	duration	0.200
+playRF	index	341
+wait	duration	0.200
+playRF	index	311
+wait	duration	0.200
+playRF	index	371
+wait	duration	0.200
+playRF	index	353
+wait	duration	0.200
+playRF	index	366
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	345
+wait	duration	0.200
+playRF	index	334
+wait	duration	0.200
+playRF	index	375
+wait	duration	0.200
+playRF	index	367
+wait	duration	0.200
+playRF	index	312
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	302
+wait	duration	0.200
+playRF	index	293
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	373
+wait	duration	0.200
+playRF	index	314
+wait	duration	0.200
+playRF	index	358
+wait	duration	0.200
+playRF	index	315
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	374
+wait	duration	0.200
+playRF	index	305
+wait	duration	0.200
+playRF	index	325
+wait	duration	0.200
+playRF	index	331
+wait	duration	0.200
+playRF	index	356
+wait	duration	0.200
+playRF	index	328
+wait	duration	0.200
+playRF	index	294
+wait	duration	0.200
+playRF	index	333
+wait	duration	0.200
+playRF	index	303
+wait	duration	0.200
+playRF	index	354
+
+newblock	4
+wait	duration	0.200
+playRF	index	462
+wait	duration	0.200
+playRF	index	394
+wait	duration	0.200
+playRF	index	414
+wait	duration	0.200
+playRF	index	393
+wait	duration	0.200
+playRF	index	386
+wait	duration	0.200
+playRF	index	412
+wait	duration	0.200
+playRF	index	384
+wait	duration	0.200
+playRF	index	433
+wait	duration	0.200
+playRF	index	423
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	402
+wait	duration	0.200
+playRF	index	385
+wait	duration	0.200
+playRF	index	391
+wait	duration	0.200
+playRF	index	404
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	466
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	465
+wait	duration	0.200
+playRF	index	397
+wait	duration	0.200
+playRF	index	442
+wait	duration	0.200
+playRF	index	456
+wait	duration	0.200
+playRF	index	446
+wait	duration	0.200
+playRF	index	403
+wait	duration	0.200
+playRF	index	431
+wait	duration	0.200
+playRF	index	463
+wait	duration	0.200
+playRF	index	448
+wait	duration	0.200
+playRF	index	424
+wait	duration	0.200
+playRF	index	413
+wait	duration	0.200
+playRF	index	437
+wait	duration	0.200
+playRF	index	452
+wait	duration	0.200
+playRF	index	416
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	421
+wait	duration	0.200
+playRF	index	387
+wait	duration	0.200
+playRF	index	453
+wait	duration	0.200
+playRF	index	415
+wait	duration	0.200
+playRF	index	405
+wait	duration	0.200
+playRF	index	445
+wait	duration	0.200
+playRF	index	443
+wait	duration	0.200
+playRF	index	395
+wait	duration	0.200
+playRF	index	472
+wait	duration	0.200
+playRF	index	428
+wait	duration	0.200
+playRF	index	447
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	471
+wait	duration	0.200
+playRF	index	411
+wait	duration	0.200
+playRF	index	435
+wait	duration	0.200
+playRF	index	464
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	454
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	467
+wait	duration	0.200
+playRF	index	427
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	434
+wait	duration	0.200
+playRF	index	458
+wait	duration	0.200
+playRF	index	438
+wait	duration	0.200
+playRF	index	451
+wait	duration	0.200
+playRF	index	382
+wait	duration	0.200
+playRF	index	396
+wait	duration	0.200
+playRF	index	418
+wait	duration	0.200
+playRF	index	381
+wait	duration	0.200
+playRF	index	436
+wait	duration	0.200
+playRF	index	441
+wait	duration	0.200
+playRF	index	457
+wait	duration	0.200
+playRF	index	422
+wait	duration	0.200
+playRF	index	392
+wait	duration	0.200
+playRF	index	406
+wait	duration	0.200
+playRF	index	426
+wait	duration	0.200
+playRF	index	425
+wait	duration	0.200
+playRF	index	383
+wait	duration	0.200
+playRF	index	432
+wait	duration	0.200
+playRF	index	461
+wait	duration	0.200
+playRF	index	455
+wait	duration	0.200
+playRF	index	444
+wait	duration	0.200
+playRF	index	417
+
+newblock	5
+wait	duration	0.200
+playRF	index	104
+wait	duration	0.200
+playRF	index	491
+wait	duration	0.200
+playRF	index	138
+wait	duration	0.200
+playRF	index	127
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	136
+wait	duration	0.200
+playRF	index	146
+wait	duration	0.200
+playRF	index	105
+wait	duration	0.200
+playRF	index	124
+wait	duration	0.200
+playRF	index	122
+wait	duration	0.200
+playRF	index	114
+wait	duration	0.200
+playRF	index	473
+wait	duration	0.200
+playRF	index	475
+wait	duration	0.200
+playRF	index	118
+wait	duration	0.200
+playRF	index	493
+wait	duration	0.200
+playRF	index	141
+wait	duration	0.200
+playRF	index	112
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	116
+wait	duration	0.200
+playRF	index	115
+wait	duration	0.200
+playRF	index	161
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	151
+wait	duration	0.200
+playRF	index	137
+wait	duration	0.200
+playRF	index	117
+wait	duration	0.200
+playRF	index	128
+wait	duration	0.200
+playRF	index	121
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	485
+wait	duration	0.200
+playRF	index	497
+wait	duration	0.200
+playRF	index	477
+wait	duration	0.200
+playRF	index	126
+wait	duration	0.200
+playRF	index	113
+wait	duration	0.200
+playRF	index	156
+wait	duration	0.200
+playRF	index	486
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	157
+wait	duration	0.200
+playRF	index	483
+wait	duration	0.200
+playRF	index	482
+wait	duration	0.200
+playRF	index	163
+wait	duration	0.200
+playRF	index	152
+wait	duration	0.200
+playRF	index	133
+wait	duration	0.200
+playRF	index	158
+wait	duration	0.200
+playRF	index	145
+wait	duration	0.200
+playRF	index	495
+wait	duration	0.200
+playRF	index	476
+wait	duration	0.200
+playRF	index	102
+wait	duration	0.200
+playRF	index	164
+wait	duration	0.200
+playRF	index	111
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	494
+wait	duration	0.200
+playRF	index	496
+wait	duration	0.200
+playRF	index	134
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	154
+wait	duration	0.200
+playRF	index	142
+wait	duration	0.200
+playRF	index	143
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	131
+wait	duration	0.200
+playRF	index	162
+wait	duration	0.200
+playRF	index	132
+wait	duration	0.200
+playRF	index	148
+wait	duration	0.200
+playRF	index	481
+wait	duration	0.200
+playRF	index	103
+wait	duration	0.200
+playRF	index	474
+wait	duration	0.200
+playRF	index	155
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	484
+wait	duration	0.200
+playRF	index	144
+wait	duration	0.200
+playRF	index	123
+wait	duration	0.200
+playRF	index	135
+wait	duration	0.200
+playRF	index	147
+wait	duration	0.200
+playRF	index	125
+wait	duration	0.200
+playRF	index	487
+wait	duration	0.200
+playRF	index	492
+wait	duration	0.200
+playRF	index	106
+wait	duration	0.200
+playRF	index	153
+
+newblock	6
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	184
+wait	duration	0.200
+playRF	index	206
+wait	duration	0.200
+playRF	index	245
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	233
+wait	duration	0.200
+playRF	index	236
+wait	duration	0.200
+playRF	index	204
+wait	duration	0.200
+playRF	index	225
+wait	duration	0.200
+playRF	index	247
+wait	duration	0.200
+playRF	index	251
+wait	duration	0.200
+playRF	index	242
+wait	duration	0.200
+playRF	index	172
+wait	duration	0.200
+playRF	index	166
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	191
+wait	duration	0.200
+playRF	index	195
+wait	duration	0.200
+playRF	index	223
+wait	duration	0.200
+playRF	index	254
+wait	duration	0.200
+playRF	index	211
+wait	duration	0.200
+playRF	index	246
+wait	duration	0.200
+playRF	index	217
+wait	duration	0.200
+playRF	index	185
+wait	duration	0.200
+playRF	index	235
+wait	duration	0.200
+playRF	index	224
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	215
+wait	duration	0.200
+playRF	index	255
+wait	duration	0.200
+playRF	index	187
+wait	duration	0.200
+playRF	index	181
+wait	duration	0.200
+playRF	index	231
+wait	duration	0.200
+playRF	index	165
+wait	duration	0.200
+playRF	index	183
+wait	duration	0.200
+playRF	index	196
+wait	duration	0.200
+playRF	index	175
+wait	duration	0.200
+playRF	index	232
+wait	duration	0.200
+playRF	index	186
+wait	duration	0.200
+playRF	index	205
+wait	duration	0.200
+playRF	index	244
+wait	duration	0.200
+playRF	index	212
+wait	duration	0.200
+playRF	index	203
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	243
+wait	duration	0.200
+playRF	index	256
+wait	duration	0.200
+playRF	index	248
+wait	duration	0.200
+playRF	index	182
+wait	duration	0.200
+playRF	index	216
+wait	duration	0.200
+playRF	index	238
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	226
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	173
+wait	duration	0.200
+playRF	index	214
+wait	duration	0.200
+playRF	index	253
+wait	duration	0.200
+playRF	index	193
+wait	duration	0.200
+playRF	index	257
+wait	duration	0.200
+playRF	index	194
+wait	duration	0.200
+playRF	index	222
+wait	duration	0.200
+playRF	index	197
+wait	duration	0.200
+playRF	index	241
+wait	duration	0.200
+playRF	index	227
+wait	duration	0.200
+playRF	index	176
+wait	duration	0.200
+playRF	index	174
+wait	duration	0.200
+playRF	index	252
+wait	duration	0.200
+playRF	index	237
+wait	duration	0.200
+playRF	index	234
+wait	duration	0.200
+playRF	index	228
+wait	duration	0.200
+playRF	index	202
+wait	duration	0.200
+playRF	index	213
+wait	duration	0.200
+playRF	index	192
+wait	duration	0.200
+playRF	index	167
+wait	duration	0.200
+playRF	index	177
+wait	duration	0.200
+playRF	index	218
+wait	duration	0.200
+playRF	index	171
+wait	duration	0.200
+playRF	index	221
+
+newblock	7
+wait	duration	0.200
+playRF	index	293
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	285
+wait	duration	0.200
+playRF	index	317
+wait	duration	0.200
+playRF	index	315
+wait	duration	0.200
+playRF	index	286
+wait	duration	0.200
+playRF	index	295
+wait	duration	0.200
+playRF	index	262
+wait	duration	0.200
+playRF	index	284
+wait	duration	0.200
+playRF	index	296
+wait	duration	0.200
+playRF	index	351
+wait	duration	0.200
+playRF	index	287
+wait	duration	0.200
+playRF	index	327
+wait	duration	0.200
+playRF	index	337
+wait	duration	0.200
+playRF	index	265
+wait	duration	0.200
+playRF	index	328
+wait	duration	0.200
+playRF	index	292
+wait	duration	0.200
+playRF	index	291
+wait	duration	0.200
+playRF	index	264
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	312
+wait	duration	0.200
+playRF	index	266
+wait	duration	0.200
+playRF	index	346
+wait	duration	0.200
+playRF	index	267
+wait	duration	0.200
+playRF	index	322
+wait	duration	0.200
+playRF	index	273
+wait	duration	0.200
+playRF	index	274
+wait	duration	0.200
+playRF	index	282
+wait	duration	0.200
+playRF	index	341
+wait	duration	0.200
+playRF	index	313
+wait	duration	0.200
+playRF	index	318
+wait	duration	0.200
+playRF	index	261
+wait	duration	0.200
+playRF	index	258
+wait	duration	0.200
+playRF	index	338
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	314
+wait	duration	0.200
+playRF	index	333
+wait	duration	0.200
+playRF	index	275
+wait	duration	0.200
+playRF	index	311
+wait	duration	0.200
+playRF	index	347
+wait	duration	0.200
+playRF	index	336
+wait	duration	0.200
+playRF	index	294
+wait	duration	0.200
+playRF	index	271
+wait	duration	0.200
+playRF	index	306
+wait	duration	0.200
+playRF	index	348
+wait	duration	0.200
+playRF	index	272
+wait	duration	0.200
+playRF	index	352
+wait	duration	0.200
+playRF	index	304
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	332
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	334
+wait	duration	0.200
+playRF	index	323
+wait	duration	0.200
+playRF	index	343
+wait	duration	0.200
+playRF	index	297
+wait	duration	0.200
+playRF	index	276
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	344
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	345
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	281
+wait	duration	0.200
+playRF	index	263
+wait	duration	0.200
+playRF	index	324
+wait	duration	0.200
+playRF	index	335
+wait	duration	0.200
+playRF	index	321
+wait	duration	0.200
+playRF	index	283
+wait	duration	0.200
+playRF	index	302
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	325
+wait	duration	0.200
+playRF	index	316
+wait	duration	0.200
+playRF	index	331
+wait	duration	0.200
+playRF	index	326
+wait	duration	0.200
+playRF	index	277
+wait	duration	0.200
+playRF	index	342
+wait	duration	0.200
+playRF	index	303
+wait	duration	0.200
+playRF	index	305
+
+newblock	8
+wait	duration	0.200
+playRF	index	405
+wait	duration	0.200
+playRF	index	367
+wait	duration	0.200
+playRF	index	386
+wait	duration	0.200
+playRF	index	364
+wait	duration	0.200
+playRF	index	383
+wait	duration	0.200
+playRF	index	384
+wait	duration	0.200
+playRF	index	372
+wait	duration	0.200
+playRF	index	422
+wait	duration	0.200
+playRF	index	395
+wait	duration	0.200
+playRF	index	416
+wait	duration	0.200
+playRF	index	397
+wait	duration	0.200
+playRF	index	358
+wait	duration	0.200
+playRF	index	445
+wait	duration	0.200
+playRF	index	377
+wait	duration	0.200
+playRF	index	403
+wait	duration	0.200
+playRF	index	385
+wait	duration	0.200
+playRF	index	425
+wait	duration	0.200
+playRF	index	375
+wait	duration	0.200
+playRF	index	365
+wait	duration	0.200
+playRF	index	441
+wait	duration	0.200
+playRF	index	415
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	438
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	361
+wait	duration	0.200
+playRF	index	444
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	353
+wait	duration	0.200
+playRF	index	387
+wait	duration	0.200
+playRF	index	428
+wait	duration	0.200
+playRF	index	446
+wait	duration	0.200
+playRF	index	433
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	363
+wait	duration	0.200
+playRF	index	374
+wait	duration	0.200
+playRF	index	414
+wait	duration	0.200
+playRF	index	417
+wait	duration	0.200
+playRF	index	424
+wait	duration	0.200
+playRF	index	402
+wait	duration	0.200
+playRF	index	393
+wait	duration	0.200
+playRF	index	435
+wait	duration	0.200
+playRF	index	436
+wait	duration	0.200
+playRF	index	404
+wait	duration	0.200
+playRF	index	376
+wait	duration	0.200
+playRF	index	442
+wait	duration	0.200
+playRF	index	418
+wait	duration	0.200
+playRF	index	427
+wait	duration	0.200
+playRF	index	362
+wait	duration	0.200
+playRF	index	382
+wait	duration	0.200
+playRF	index	392
+wait	duration	0.200
+playRF	index	432
+wait	duration	0.200
+playRF	index	423
+wait	duration	0.200
+playRF	index	373
+wait	duration	0.200
+playRF	index	381
+wait	duration	0.200
+playRF	index	437
+wait	duration	0.200
+playRF	index	354
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	357
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	421
+wait	duration	0.200
+playRF	index	406
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	356
+wait	duration	0.200
+playRF	index	391
+wait	duration	0.200
+playRF	index	366
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	434
+wait	duration	0.200
+playRF	index	411
+wait	duration	0.200
+playRF	index	371
+wait	duration	0.200
+playRF	index	394
+wait	duration	0.200
+playRF	index	443
+wait	duration	0.200
+playRF	index	396
+wait	duration	0.200
+playRF	index	412
+wait	duration	0.200
+playRF	index	426
+wait	duration	0.200
+playRF	index	431
+wait	duration	0.200
+playRF	index	355
+wait	duration	0.200
+playRF	index	413
+
+newblock	9
+wait	duration	0.200
+playRF	index	464
+wait	duration	0.200
+playRF	index	462
+wait	duration	0.200
+playRF	index	495
+wait	duration	0.200
+playRF	index	487
+wait	duration	0.200
+playRF	index	126
+wait	duration	0.200
+playRF	index	137
+wait	duration	0.200
+playRF	index	484
+wait	duration	0.200
+playRF	index	458
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	453
+wait	duration	0.200
+playRF	index	472
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	466
+wait	duration	0.200
+playRF	index	486
+wait	duration	0.200
+playRF	index	471
+wait	duration	0.200
+playRF	index	131
+wait	duration	0.200
+playRF	index	133
+wait	duration	0.200
+playRF	index	465
+wait	duration	0.200
+playRF	index	104
+wait	duration	0.200
+playRF	index	463
+wait	duration	0.200
+playRF	index	476
+wait	duration	0.200
+playRF	index	106
+wait	duration	0.200
+playRF	index	456
+wait	duration	0.200
+playRF	index	448
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	483
+wait	duration	0.200
+playRF	index	467
+wait	duration	0.200
+playRF	index	141
+wait	duration	0.200
+playRF	index	451
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	115
+wait	duration	0.200
+playRF	index	134
+wait	duration	0.200
+playRF	index	122
+wait	duration	0.200
+playRF	index	132
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	111
+wait	duration	0.200
+playRF	index	481
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	461
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	114
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	135
+wait	duration	0.200
+playRF	index	452
+wait	duration	0.200
+playRF	index	447
+wait	duration	0.200
+playRF	index	492
+wait	duration	0.200
+playRF	index	485
+wait	duration	0.200
+playRF	index	124
+wait	duration	0.200
+playRF	index	477
+wait	duration	0.200
+playRF	index	454
+wait	duration	0.200
+playRF	index	482
+wait	duration	0.200
+playRF	index	127
+wait	duration	0.200
+playRF	index	136
+wait	duration	0.200
+playRF	index	103
+wait	duration	0.200
+playRF	index	138
+wait	duration	0.200
+playRF	index	121
+wait	duration	0.200
+playRF	index	473
+wait	duration	0.200
+playRF	index	116
+wait	duration	0.200
+playRF	index	102
+wait	duration	0.200
+playRF	index	496
+wait	duration	0.200
+playRF	index	497
+wait	duration	0.200
+playRF	index	455
+wait	duration	0.200
+playRF	index	128
+wait	duration	0.200
+playRF	index	494
+wait	duration	0.200
+playRF	index	105
+wait	duration	0.200
+playRF	index	457
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	123
+wait	duration	0.200
+playRF	index	113
+wait	duration	0.200
+playRF	index	112
+wait	duration	0.200
+playRF	index	474
+wait	duration	0.200
+playRF	index	125
+wait	duration	0.200
+playRF	index	118
+wait	duration	0.200
+playRF	index	117
+wait	duration	0.200
+playRF	index	475
+wait	duration	0.200
+playRF	index	491
+wait	duration	0.200
+playRF	index	493
+
+newblock	10
+wait	duration	0.200
+playRF	index	143
+wait	duration	0.200
+playRF	index	173
+wait	duration	0.200
+playRF	index	227
+wait	duration	0.200
+playRF	index	182
+wait	duration	0.200
+playRF	index	186
+wait	duration	0.200
+playRF	index	203
+wait	duration	0.200
+playRF	index	225
+wait	duration	0.200
+playRF	index	163
+wait	duration	0.200
+playRF	index	202
+wait	duration	0.200
+playRF	index	158
+wait	duration	0.200
+playRF	index	223
+wait	duration	0.200
+playRF	index	164
+wait	duration	0.200
+playRF	index	218
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	212
+wait	duration	0.200
+playRF	index	142
+wait	duration	0.200
+playRF	index	213
+wait	duration	0.200
+playRF	index	165
+wait	duration	0.200
+playRF	index	232
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	172
+wait	duration	0.200
+playRF	index	217
+wait	duration	0.200
+playRF	index	175
+wait	duration	0.200
+playRF	index	205
+wait	duration	0.200
+playRF	index	151
+wait	duration	0.200
+playRF	index	144
+wait	duration	0.200
+playRF	index	214
+wait	duration	0.200
+playRF	index	162
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	196
+wait	duration	0.200
+playRF	index	222
+wait	duration	0.200
+playRF	index	216
+wait	duration	0.200
+playRF	index	181
+wait	duration	0.200
+playRF	index	221
+wait	duration	0.200
+playRF	index	167
+wait	duration	0.200
+playRF	index	224
+wait	duration	0.200
+playRF	index	148
+wait	duration	0.200
+playRF	index	233
+wait	duration	0.200
+playRF	index	187
+wait	duration	0.200
+playRF	index	152
+wait	duration	0.200
+playRF	index	161
+wait	duration	0.200
+playRF	index	174
+wait	duration	0.200
+playRF	index	147
+wait	duration	0.200
+playRF	index	234
+wait	duration	0.200
+playRF	index	228
+wait	duration	0.200
+playRF	index	155
+wait	duration	0.200
+playRF	index	197
+wait	duration	0.200
+playRF	index	191
+wait	duration	0.200
+playRF	index	206
+wait	duration	0.200
+playRF	index	226
+wait	duration	0.200
+playRF	index	146
+wait	duration	0.200
+playRF	index	157
+wait	duration	0.200
+playRF	index	194
+wait	duration	0.200
+playRF	index	183
+wait	duration	0.200
+playRF	index	166
+wait	duration	0.200
+playRF	index	192
+wait	duration	0.200
+playRF	index	171
+wait	duration	0.200
+playRF	index	145
+wait	duration	0.200
+playRF	index	193
+wait	duration	0.200
+playRF	index	195
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	156
+wait	duration	0.200
+playRF	index	153
+wait	duration	0.200
+playRF	index	154
+wait	duration	0.200
+playRF	index	231
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	184
+wait	duration	0.200
+playRF	index	177
+wait	duration	0.200
+playRF	index	215
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	176
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	211
+wait	duration	0.200
+playRF	index	185
+wait	duration	0.200
+playRF	index	204
+
+newblock	11
+wait	duration	0.200
+playRF	index	325
+wait	duration	0.200
+playRF	index	326
+wait	duration	0.200
+playRF	index	261
+wait	duration	0.200
+playRF	index	296
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	292
+wait	duration	0.200
+playRF	index	256
+wait	duration	0.200
+playRF	index	243
+wait	duration	0.200
+playRF	index	275
+wait	duration	0.200
+playRF	index	274
+wait	duration	0.200
+playRF	index	315
+wait	duration	0.200
+playRF	index	321
+wait	duration	0.200
+playRF	index	318
+wait	duration	0.200
+playRF	index	242
+wait	duration	0.200
+playRF	index	304
+wait	duration	0.200
+playRF	index	313
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	251
+wait	duration	0.200
+playRF	index	236
+wait	duration	0.200
+playRF	index	244
+wait	duration	0.200
+playRF	index	291
+wait	duration	0.200
+playRF	index	276
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	302
+wait	duration	0.200
+playRF	index	284
+wait	duration	0.200
+playRF	index	283
+wait	duration	0.200
+playRF	index	271
+wait	duration	0.200
+playRF	index	314
+wait	duration	0.200
+playRF	index	257
+wait	duration	0.200
+playRF	index	306
+wait	duration	0.200
+playRF	index	254
+wait	duration	0.200
+playRF	index	305
+wait	duration	0.200
+playRF	index	272
+wait	duration	0.200
+playRF	index	322
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	258
+wait	duration	0.200
+playRF	index	277
+wait	duration	0.200
+playRF	index	264
+wait	duration	0.200
+playRF	index	324
+wait	duration	0.200
+playRF	index	263
+wait	duration	0.200
+playRF	index	317
+wait	duration	0.200
+playRF	index	252
+wait	duration	0.200
+playRF	index	297
+wait	duration	0.200
+playRF	index	294
+wait	duration	0.200
+playRF	index	241
+wait	duration	0.200
+playRF	index	238
+wait	duration	0.200
+playRF	index	287
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	316
+wait	duration	0.200
+playRF	index	312
+wait	duration	0.200
+playRF	index	247
+wait	duration	0.200
+playRF	index	282
+wait	duration	0.200
+playRF	index	248
+wait	duration	0.200
+playRF	index	262
+wait	duration	0.200
+playRF	index	235
+wait	duration	0.200
+playRF	index	273
+wait	duration	0.200
+playRF	index	267
+wait	duration	0.200
+playRF	index	327
+wait	duration	0.200
+playRF	index	253
+wait	duration	0.200
+playRF	index	311
+wait	duration	0.200
+playRF	index	303
+wait	duration	0.200
+playRF	index	265
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	293
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	285
+wait	duration	0.200
+playRF	index	245
+wait	duration	0.200
+playRF	index	266
+wait	duration	0.200
+playRF	index	323
+wait	duration	0.200
+playRF	index	246
+wait	duration	0.200
+playRF	index	286
+wait	duration	0.200
+playRF	index	295
+wait	duration	0.200
+playRF	index	237
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	281
+wait	duration	0.200
+playRF	index	255
+
+newblock	12
+wait	duration	0.200
+playRF	index	406
+wait	duration	0.200
+playRF	index	358
+wait	duration	0.200
+playRF	index	393
+wait	duration	0.200
+playRF	index	352
+wait	duration	0.200
+playRF	index	331
+wait	duration	0.200
+playRF	index	392
+wait	duration	0.200
+playRF	index	412
+wait	duration	0.200
+playRF	index	417
+wait	duration	0.200
+playRF	index	364
+wait	duration	0.200
+playRF	index	338
+wait	duration	0.200
+playRF	index	355
+wait	duration	0.200
+playRF	index	422
+wait	duration	0.200
+playRF	index	342
+wait	duration	0.200
+playRF	index	421
+wait	duration	0.200
+playRF	index	377
+wait	duration	0.200
+playRF	index	414
+wait	duration	0.200
+playRF	index	335
+wait	duration	0.200
+playRF	index	418
+wait	duration	0.200
+playRF	index	394
+wait	duration	0.200
+playRF	index	334
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	351
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	415
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	381
+wait	duration	0.200
+playRF	index	374
+wait	duration	0.200
+playRF	index	333
+wait	duration	0.200
+playRF	index	345
+wait	duration	0.200
+playRF	index	403
+wait	duration	0.200
+playRF	index	356
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	413
+wait	duration	0.200
+playRF	index	376
+wait	duration	0.200
+playRF	index	365
+wait	duration	0.200
+playRF	index	347
+wait	duration	0.200
+playRF	index	366
+wait	duration	0.200
+playRF	index	396
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	387
+wait	duration	0.200
+playRF	index	402
+wait	duration	0.200
+playRF	index	404
+wait	duration	0.200
+playRF	index	383
+wait	duration	0.200
+playRF	index	363
+wait	duration	0.200
+playRF	index	395
+wait	duration	0.200
+playRF	index	332
+wait	duration	0.200
+playRF	index	353
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	416
+wait	duration	0.200
+playRF	index	373
+wait	duration	0.200
+playRF	index	382
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	405
+wait	duration	0.200
+playRF	index	346
+wait	duration	0.200
+playRF	index	357
+wait	duration	0.200
+playRF	index	384
+wait	duration	0.200
+playRF	index	336
+wait	duration	0.200
+playRF	index	362
+wait	duration	0.200
+playRF	index	341
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	411
+wait	duration	0.200
+playRF	index	344
+wait	duration	0.200
+playRF	index	348
+wait	duration	0.200
+playRF	index	371
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	397
+wait	duration	0.200
+playRF	index	354
+wait	duration	0.200
+playRF	index	375
+wait	duration	0.200
+playRF	index	361
+wait	duration	0.200
+playRF	index	372
+wait	duration	0.200
+playRF	index	386
+wait	duration	0.200
+playRF	index	391
+wait	duration	0.200
+playRF	index	328
+wait	duration	0.200
+playRF	index	343
+wait	duration	0.200
+playRF	index	367
+wait	duration	0.200
+playRF	index	337
+wait	duration	0.200
+playRF	index	385
+
+newblock	13
+wait	duration	0.200
+playRF	index	453
+wait	duration	0.200
+playRF	index	458
+wait	duration	0.200
+playRF	index	448
+wait	duration	0.200
+playRF	index	115
+wait	duration	0.200
+playRF	index	454
+wait	duration	0.200
+playRF	index	466
+wait	duration	0.200
+playRF	index	467
+wait	duration	0.200
+playRF	index	444
+wait	duration	0.200
+playRF	index	471
+wait	duration	0.200
+playRF	index	446
+wait	duration	0.200
+playRF	index	113
+wait	duration	0.200
+playRF	index	457
+wait	duration	0.200
+playRF	index	492
+wait	duration	0.200
+playRF	index	102
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	445
+wait	duration	0.200
+playRF	index	455
+wait	duration	0.200
+playRF	index	481
+wait	duration	0.200
+playRF	index	482
+wait	duration	0.200
+playRF	index	114
+wait	duration	0.200
+playRF	index	473
+wait	duration	0.200
+playRF	index	443
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	105
+wait	duration	0.200
+playRF	index	432
+wait	duration	0.200
+playRF	index	485
+wait	duration	0.200
+playRF	index	462
+wait	duration	0.200
+playRF	index	423
+wait	duration	0.200
+playRF	index	436
+wait	duration	0.200
+playRF	index	497
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	431
+wait	duration	0.200
+playRF	index	495
+wait	duration	0.200
+playRF	index	465
+wait	duration	0.200
+playRF	index	464
+wait	duration	0.200
+playRF	index	456
+wait	duration	0.200
+playRF	index	486
+wait	duration	0.200
+playRF	index	447
+wait	duration	0.200
+playRF	index	426
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	477
+wait	duration	0.200
+playRF	index	483
+wait	duration	0.200
+playRF	index	442
+wait	duration	0.200
+playRF	index	441
+wait	duration	0.200
+playRF	index	494
+wait	duration	0.200
+playRF	index	472
+wait	duration	0.200
+playRF	index	433
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	104
+wait	duration	0.200
+playRF	index	103
+wait	duration	0.200
+playRF	index	487
+wait	duration	0.200
+playRF	index	452
+wait	duration	0.200
+playRF	index	435
+wait	duration	0.200
+playRF	index	493
+wait	duration	0.200
+playRF	index	461
+wait	duration	0.200
+playRF	index	437
+wait	duration	0.200
+playRF	index	484
+wait	duration	0.200
+playRF	index	463
+wait	duration	0.200
+playRF	index	425
+wait	duration	0.200
+playRF	index	106
+wait	duration	0.200
+playRF	index	427
+wait	duration	0.200
+playRF	index	474
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	475
+wait	duration	0.200
+playRF	index	424
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	496
+wait	duration	0.200
+playRF	index	428
+wait	duration	0.200
+playRF	index	434
+wait	duration	0.200
+playRF	index	451
+wait	duration	0.200
+playRF	index	491
+wait	duration	0.200
+playRF	index	438
+wait	duration	0.200
+playRF	index	476
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	112
+wait	duration	0.200
+playRF	index	111
+
+newblock	14
+wait	duration	0.200
+playRF	index	162
+wait	duration	0.200
+playRF	index	165
+wait	duration	0.200
+playRF	index	121
+wait	duration	0.200
+playRF	index	143
+wait	duration	0.200
+playRF	index	184
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	116
+wait	duration	0.200
+playRF	index	125
+wait	duration	0.200
+playRF	index	171
+wait	duration	0.200
+playRF	index	167
+wait	duration	0.200
+playRF	index	136
+wait	duration	0.200
+playRF	index	151
+wait	duration	0.200
+playRF	index	182
+wait	duration	0.200
+playRF	index	183
+wait	duration	0.200
+playRF	index	132
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	187
+wait	duration	0.200
+playRF	index	173
+wait	duration	0.200
+playRF	index	206
+wait	duration	0.200
+playRF	index	124
+wait	duration	0.200
+playRF	index	195
+wait	duration	0.200
+playRF	index	196
+wait	duration	0.200
+playRF	index	185
+wait	duration	0.200
+playRF	index	174
+wait	duration	0.200
+playRF	index	202
+wait	duration	0.200
+playRF	index	134
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	177
+wait	duration	0.200
+playRF	index	175
+wait	duration	0.200
+playRF	index	176
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	164
+wait	duration	0.200
+playRF	index	135
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	152
+wait	duration	0.200
+playRF	index	117
+wait	duration	0.200
+playRF	index	145
+wait	duration	0.200
+playRF	index	197
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	205
+wait	duration	0.200
+playRF	index	157
+wait	duration	0.200
+playRF	index	158
+wait	duration	0.200
+playRF	index	172
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	181
+wait	duration	0.200
+playRF	index	128
+wait	duration	0.200
+playRF	index	153
+wait	duration	0.200
+playRF	index	138
+wait	duration	0.200
+playRF	index	126
+wait	duration	0.200
+playRF	index	122
+wait	duration	0.200
+playRF	index	192
+wait	duration	0.200
+playRF	index	141
+wait	duration	0.200
+playRF	index	191
+wait	duration	0.200
+playRF	index	147
+wait	duration	0.200
+playRF	index	166
+wait	duration	0.200
+playRF	index	133
+wait	duration	0.200
+playRF	index	146
+wait	duration	0.200
+playRF	index	186
+wait	duration	0.200
+playRF	index	142
+wait	duration	0.200
+playRF	index	204
+wait	duration	0.200
+playRF	index	137
+wait	duration	0.200
+playRF	index	193
+wait	duration	0.200
+playRF	index	194
+wait	duration	0.200
+playRF	index	148
+wait	duration	0.200
+playRF	index	203
+wait	duration	0.200
+playRF	index	155
+wait	duration	0.200
+playRF	index	161
+wait	duration	0.200
+playRF	index	118
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	163
+wait	duration	0.200
+playRF	index	156
+wait	duration	0.200
+playRF	index	131
+wait	duration	0.200
+playRF	index	127
+wait	duration	0.200
+playRF	index	154
+wait	duration	0.200
+playRF	index	144
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	123
+
+newblock	15
+wait	duration	0.200
+playRF	index	221
+wait	duration	0.200
+playRF	index	291
+wait	duration	0.200
+playRF	index	247
+wait	duration	0.200
+playRF	index	275
+wait	duration	0.200
+playRF	index	264
+wait	duration	0.200
+playRF	index	212
+wait	duration	0.200
+playRF	index	226
+wait	duration	0.200
+playRF	index	245
+wait	duration	0.200
+playRF	index	257
+wait	duration	0.200
+playRF	index	266
+wait	duration	0.200
+playRF	index	271
+wait	duration	0.200
+playRF	index	223
+wait	duration	0.200
+playRF	index	276
+wait	duration	0.200
+playRF	index	224
+wait	duration	0.200
+playRF	index	258
+wait	duration	0.200
+playRF	index	282
+wait	duration	0.200
+playRF	index	294
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	256
+wait	duration	0.200
+playRF	index	262
+wait	duration	0.200
+playRF	index	225
+wait	duration	0.200
+playRF	index	281
+wait	duration	0.200
+playRF	index	232
+wait	duration	0.200
+playRF	index	241
+wait	duration	0.200
+playRF	index	261
+wait	duration	0.200
+playRF	index	274
+wait	duration	0.200
+playRF	index	237
+wait	duration	0.200
+playRF	index	253
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	277
+wait	duration	0.200
+playRF	index	218
+wait	duration	0.200
+playRF	index	248
+wait	duration	0.200
+playRF	index	286
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	272
+wait	duration	0.200
+playRF	index	211
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	222
+wait	duration	0.200
+playRF	index	231
+wait	duration	0.200
+playRF	index	238
+wait	duration	0.200
+playRF	index	234
+wait	duration	0.200
+playRF	index	302
+wait	duration	0.200
+playRF	index	265
+wait	duration	0.200
+playRF	index	214
+wait	duration	0.200
+playRF	index	292
+wait	duration	0.200
+playRF	index	242
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	284
+wait	duration	0.200
+playRF	index	251
+wait	duration	0.200
+playRF	index	254
+wait	duration	0.200
+playRF	index	244
+wait	duration	0.200
+playRF	index	227
+wait	duration	0.200
+playRF	index	228
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	213
+wait	duration	0.200
+playRF	index	296
+wait	duration	0.200
+playRF	index	252
+wait	duration	0.200
+playRF	index	243
+wait	duration	0.200
+playRF	index	293
+wait	duration	0.200
+playRF	index	246
+wait	duration	0.200
+playRF	index	297
+wait	duration	0.200
+playRF	index	233
+wait	duration	0.200
+playRF	index	267
+wait	duration	0.200
+playRF	index	215
+wait	duration	0.200
+playRF	index	255
+wait	duration	0.200
+playRF	index	236
+wait	duration	0.200
+playRF	index	263
+wait	duration	0.200
+playRF	index	217
+wait	duration	0.200
+playRF	index	295
+wait	duration	0.200
+playRF	index	283
+wait	duration	0.200
+playRF	index	287
+wait	duration	0.200
+playRF	index	235
+wait	duration	0.200
+playRF	index	285
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	216
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	273
+
+newblock	16
+wait	duration	0.200
+playRF	index	341
+wait	duration	0.200
+playRF	index	344
+wait	duration	0.200
+playRF	index	317
+wait	duration	0.200
+playRF	index	351
+wait	duration	0.200
+playRF	index	364
+wait	duration	0.200
+playRF	index	356
+wait	duration	0.200
+playRF	index	387
+wait	duration	0.200
+playRF	index	305
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	365
+wait	duration	0.200
+playRF	index	312
+wait	duration	0.200
+playRF	index	353
+wait	duration	0.200
+playRF	index	335
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	357
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	361
+wait	duration	0.200
+playRF	index	322
+wait	duration	0.200
+playRF	index	367
+wait	duration	0.200
+playRF	index	328
+wait	duration	0.200
+playRF	index	391
+wait	duration	0.200
+playRF	index	314
+wait	duration	0.200
+playRF	index	375
+wait	duration	0.200
+playRF	index	393
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	331
+wait	duration	0.200
+playRF	index	323
+wait	duration	0.200
+playRF	index	347
+wait	duration	0.200
+playRF	index	354
+wait	duration	0.200
+playRF	index	313
+wait	duration	0.200
+playRF	index	358
+wait	duration	0.200
+playRF	index	384
+wait	duration	0.200
+playRF	index	342
+wait	duration	0.200
+playRF	index	343
+wait	duration	0.200
+playRF	index	381
+wait	duration	0.200
+playRF	index	324
+wait	duration	0.200
+playRF	index	333
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	337
+wait	duration	0.200
+playRF	index	315
+wait	duration	0.200
+playRF	index	303
+wait	duration	0.200
+playRF	index	352
+wait	duration	0.200
+playRF	index	336
+wait	duration	0.200
+playRF	index	376
+wait	duration	0.200
+playRF	index	385
+wait	duration	0.200
+playRF	index	373
+wait	duration	0.200
+playRF	index	311
+wait	duration	0.200
+playRF	index	325
+wait	duration	0.200
+playRF	index	366
+wait	duration	0.200
+playRF	index	383
+wait	duration	0.200
+playRF	index	326
+wait	duration	0.200
+playRF	index	327
+wait	duration	0.200
+playRF	index	348
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	362
+wait	duration	0.200
+playRF	index	316
+wait	duration	0.200
+playRF	index	318
+wait	duration	0.200
+playRF	index	306
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	321
+wait	duration	0.200
+playRF	index	355
+wait	duration	0.200
+playRF	index	334
+wait	duration	0.200
+playRF	index	374
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	346
+wait	duration	0.200
+playRF	index	386
+wait	duration	0.200
+playRF	index	345
+wait	duration	0.200
+playRF	index	382
+wait	duration	0.200
+playRF	index	332
+wait	duration	0.200
+playRF	index	338
+wait	duration	0.200
+playRF	index	372
+wait	duration	0.200
+playRF	index	371
+wait	duration	0.200
+playRF	index	377
+wait	duration	0.200
+playRF	index	363
+wait	duration	0.200
+playRF	index	304
+wait	duration	0.200
+playRF	index	392
+
+newblock	17
+wait	duration	0.200
+playRF	index	481
+wait	duration	0.200
+playRF	index	404
+wait	duration	0.200
+playRF	index	445
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	434
+wait	duration	0.200
+playRF	index	457
+wait	duration	0.200
+playRF	index	411
+wait	duration	0.200
+playRF	index	466
+wait	duration	0.200
+playRF	index	421
+wait	duration	0.200
+playRF	index	448
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	431
+wait	duration	0.200
+playRF	index	415
+wait	duration	0.200
+playRF	index	474
+wait	duration	0.200
+playRF	index	472
+wait	duration	0.200
+playRF	index	458
+wait	duration	0.200
+playRF	index	417
+wait	duration	0.200
+playRF	index	414
+wait	duration	0.200
+playRF	index	438
+wait	duration	0.200
+playRF	index	397
+wait	duration	0.200
+playRF	index	422
+wait	duration	0.200
+playRF	index	423
+wait	duration	0.200
+playRF	index	416
+wait	duration	0.200
+playRF	index	436
+wait	duration	0.200
+playRF	index	413
+wait	duration	0.200
+playRF	index	465
+wait	duration	0.200
+playRF	index	476
+wait	duration	0.200
+playRF	index	447
+wait	duration	0.200
+playRF	index	473
+wait	duration	0.200
+playRF	index	425
+wait	duration	0.200
+playRF	index	444
+wait	duration	0.200
+playRF	index	452
+wait	duration	0.200
+playRF	index	464
+wait	duration	0.200
+playRF	index	461
+wait	duration	0.200
+playRF	index	451
+wait	duration	0.200
+playRF	index	435
+wait	duration	0.200
+playRF	index	471
+wait	duration	0.200
+playRF	index	446
+wait	duration	0.200
+playRF	index	406
+wait	duration	0.200
+playRF	index	396
+wait	duration	0.200
+playRF	index	484
+wait	duration	0.200
+playRF	index	403
+wait	duration	0.200
+playRF	index	453
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	441
+wait	duration	0.200
+playRF	index	443
+wait	duration	0.200
+playRF	index	442
+wait	duration	0.200
+playRF	index	427
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	483
+wait	duration	0.200
+playRF	index	437
+wait	duration	0.200
+playRF	index	485
+wait	duration	0.200
+playRF	index	418
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	395
+wait	duration	0.200
+playRF	index	405
+wait	duration	0.200
+playRF	index	455
+wait	duration	0.200
+playRF	index	467
+wait	duration	0.200
+playRF	index	394
+wait	duration	0.200
+playRF	index	475
+wait	duration	0.200
+playRF	index	426
+wait	duration	0.200
+playRF	index	428
+wait	duration	0.200
+playRF	index	463
+wait	duration	0.200
+playRF	index	454
+wait	duration	0.200
+playRF	index	482
+wait	duration	0.200
+playRF	index	433
+wait	duration	0.200
+playRF	index	456
+wait	duration	0.200
+playRF	index	424
+wait	duration	0.200
+playRF	index	412
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	477
+wait	duration	0.200
+playRF	index	462
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	402
+wait	duration	0.200
+playRF	index	432
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+
+newblock	18
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	175
+wait	duration	0.200
+playRF	index	492
+wait	duration	0.200
+playRF	index	106
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	162
+wait	duration	0.200
+playRF	index	118
+wait	duration	0.200
+playRF	index	105
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	156
+wait	duration	0.200
+playRF	index	155
+wait	duration	0.200
+playRF	index	158
+wait	duration	0.200
+playRF	index	126
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	157
+wait	duration	0.200
+playRF	index	121
+wait	duration	0.200
+playRF	index	496
+wait	duration	0.200
+playRF	index	132
+wait	duration	0.200
+playRF	index	153
+wait	duration	0.200
+playRF	index	131
+wait	duration	0.200
+playRF	index	146
+wait	duration	0.200
+playRF	index	173
+wait	duration	0.200
+playRF	index	138
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	125
+wait	duration	0.200
+playRF	index	133
+wait	duration	0.200
+playRF	index	176
+wait	duration	0.200
+playRF	index	114
+wait	duration	0.200
+playRF	index	143
+wait	duration	0.200
+playRF	index	104
+wait	duration	0.200
+playRF	index	144
+wait	duration	0.200
+playRF	index	145
+wait	duration	0.200
+playRF	index	166
+wait	duration	0.200
+playRF	index	116
+wait	duration	0.200
+playRF	index	494
+wait	duration	0.200
+playRF	index	172
+wait	duration	0.200
+playRF	index	497
+wait	duration	0.200
+playRF	index	136
+wait	duration	0.200
+playRF	index	137
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	161
+wait	duration	0.200
+playRF	index	111
+wait	duration	0.200
+playRF	index	486
+wait	duration	0.200
+playRF	index	487
+wait	duration	0.200
+playRF	index	167
+wait	duration	0.200
+playRF	index	147
+wait	duration	0.200
+playRF	index	154
+wait	duration	0.200
+playRF	index	113
+wait	duration	0.200
+playRF	index	495
+wait	duration	0.200
+playRF	index	141
+wait	duration	0.200
+playRF	index	102
+wait	duration	0.200
+playRF	index	164
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	152
+wait	duration	0.200
+playRF	index	122
+wait	duration	0.200
+playRF	index	124
+wait	duration	0.200
+playRF	index	128
+wait	duration	0.200
+playRF	index	112
+wait	duration	0.200
+playRF	index	142
+wait	duration	0.200
+playRF	index	493
+wait	duration	0.200
+playRF	index	135
+wait	duration	0.200
+playRF	index	163
+wait	duration	0.200
+playRF	index	134
+wait	duration	0.200
+playRF	index	127
+wait	duration	0.200
+playRF	index	491
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	171
+wait	duration	0.200
+playRF	index	148
+wait	duration	0.200
+playRF	index	151
+wait	duration	0.200
+playRF	index	123
+wait	duration	0.200
+playRF	index	165
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	115
+wait	duration	0.200
+playRF	index	117
+wait	duration	0.200
+playRF	index	103
+wait	duration	0.200
+playRF	index	177
+wait	duration	0.200
+playRF	index	174
+
+newblock	19
+wait	duration	0.200
+playRF	index	232
+wait	duration	0.200
+playRF	index	197
+wait	duration	0.200
+playRF	index	183
+wait	duration	0.200
+playRF	index	185
+wait	duration	0.200
+playRF	index	195
+wait	duration	0.200
+playRF	index	196
+wait	duration	0.200
+playRF	index	258
+wait	duration	0.200
+playRF	index	212
+wait	duration	0.200
+playRF	index	211
+wait	duration	0.200
+playRF	index	215
+wait	duration	0.200
+playRF	index	218
+wait	duration	0.200
+playRF	index	204
+wait	duration	0.200
+playRF	index	228
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	235
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	213
+wait	duration	0.200
+playRF	index	231
+wait	duration	0.200
+playRF	index	263
+wait	duration	0.200
+playRF	index	272
+wait	duration	0.200
+playRF	index	216
+wait	duration	0.200
+playRF	index	217
+wait	duration	0.200
+playRF	index	192
+wait	duration	0.200
+playRF	index	256
+wait	duration	0.200
+playRF	index	252
+wait	duration	0.200
+playRF	index	244
+wait	duration	0.200
+playRF	index	255
+wait	duration	0.200
+playRF	index	238
+wait	duration	0.200
+playRF	index	261
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	226
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	187
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	248
+wait	duration	0.200
+playRF	index	243
+wait	duration	0.200
+playRF	index	236
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	266
+wait	duration	0.200
+playRF	index	225
+wait	duration	0.200
+playRF	index	184
+wait	duration	0.200
+playRF	index	253
+wait	duration	0.200
+playRF	index	242
+wait	duration	0.200
+playRF	index	193
+wait	duration	0.200
+playRF	index	181
+wait	duration	0.200
+playRF	index	262
+wait	duration	0.200
+playRF	index	203
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	206
+wait	duration	0.200
+playRF	index	264
+wait	duration	0.200
+playRF	index	224
+wait	duration	0.200
+playRF	index	267
+wait	duration	0.200
+playRF	index	237
+wait	duration	0.200
+playRF	index	227
+wait	duration	0.200
+playRF	index	202
+wait	duration	0.200
+playRF	index	222
+wait	duration	0.200
+playRF	index	182
+wait	duration	0.200
+playRF	index	247
+wait	duration	0.200
+playRF	index	223
+wait	duration	0.200
+playRF	index	245
+wait	duration	0.200
+playRF	index	241
+wait	duration	0.200
+playRF	index	214
+wait	duration	0.200
+playRF	index	271
+wait	duration	0.200
+playRF	index	205
+wait	duration	0.200
+playRF	index	265
+wait	duration	0.200
+playRF	index	186
+wait	duration	0.200
+playRF	index	191
+wait	duration	0.200
+playRF	index	221
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	246
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	257
+wait	duration	0.200
+playRF	index	194
+wait	duration	0.200
+playRF	index	251
+wait	duration	0.200
+playRF	index	254
+wait	duration	0.200
+playRF	index	233
+wait	duration	0.200
+playRF	index	234
+
+newblock	20
+wait	duration	0.200
+playRF	index	296
+wait	duration	0.200
+playRF	index	347
+wait	duration	0.200
+playRF	index	328
+wait	duration	0.200
+playRF	index	304
+wait	duration	0.200
+playRF	index	334
+wait	duration	0.200
+playRF	index	357
+wait	duration	0.200
+playRF	index	285
+wait	duration	0.200
+playRF	index	292
+wait	duration	0.200
+playRF	index	276
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	344
+wait	duration	0.200
+playRF	index	306
+wait	duration	0.200
+playRF	index	314
+wait	duration	0.200
+playRF	index	295
+wait	duration	0.200
+playRF	index	317
+wait	duration	0.200
+playRF	index	343
+wait	duration	0.200
+playRF	index	275
+wait	duration	0.200
+playRF	index	322
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	294
+wait	duration	0.200
+playRF	index	297
+wait	duration	0.200
+playRF	index	331
+wait	duration	0.200
+playRF	index	287
+wait	duration	0.200
+playRF	index	277
+wait	duration	0.200
+playRF	index	291
+wait	duration	0.200
+playRF	index	283
+wait	duration	0.200
+playRF	index	361
+wait	duration	0.200
+playRF	index	333
+wait	duration	0.200
+playRF	index	336
+wait	duration	0.200
+playRF	index	363
+wait	duration	0.200
+playRF	index	356
+wait	duration	0.200
+playRF	index	281
+wait	duration	0.200
+playRF	index	286
+wait	duration	0.200
+playRF	index	316
+wait	duration	0.200
+playRF	index	327
+wait	duration	0.200
+playRF	index	282
+wait	duration	0.200
+playRF	index	325
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	315
+wait	duration	0.200
+playRF	index	273
+wait	duration	0.200
+playRF	index	335
+wait	duration	0.200
+playRF	index	351
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	323
+wait	duration	0.200
+playRF	index	338
+wait	duration	0.200
+playRF	index	352
+wait	duration	0.200
+playRF	index	302
+wait	duration	0.200
+playRF	index	318
+wait	duration	0.200
+playRF	index	293
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	321
+wait	duration	0.200
+playRF	index	353
+wait	duration	0.200
+playRF	index	346
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	284
+wait	duration	0.200
+playRF	index	326
+wait	duration	0.200
+playRF	index	358
+wait	duration	0.200
+playRF	index	337
+wait	duration	0.200
+playRF	index	354
+wait	duration	0.200
+playRF	index	312
+wait	duration	0.200
+playRF	index	332
+wait	duration	0.200
+playRF	index	341
+wait	duration	0.200
+playRF	index	342
+wait	duration	0.200
+playRF	index	345
+wait	duration	0.200
+playRF	index	364
+wait	duration	0.200
+playRF	index	311
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	362
+wait	duration	0.200
+playRF	index	355
+wait	duration	0.200
+playRF	index	303
+wait	duration	0.200
+playRF	index	348
+wait	duration	0.200
+playRF	index	305
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	313
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	274
+wait	duration	0.200
+playRF	index	324
+
+newblock	21
+wait	duration	0.200
+playRF	index	437
+wait	duration	0.200
+playRF	index	385
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	443
+wait	duration	0.200
+playRF	index	454
+wait	duration	0.200
+playRF	index	426
+wait	duration	0.200
+playRF	index	383
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	431
+wait	duration	0.200
+playRF	index	381
+wait	duration	0.200
+playRF	index	367
+wait	duration	0.200
+playRF	index	436
+wait	duration	0.200
+playRF	index	445
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	415
+wait	duration	0.200
+playRF	index	455
+wait	duration	0.200
+playRF	index	433
+wait	duration	0.200
+playRF	index	391
+wait	duration	0.200
+playRF	index	422
+wait	duration	0.200
+playRF	index	421
+wait	duration	0.200
+playRF	index	374
+wait	duration	0.200
+playRF	index	448
+wait	duration	0.200
+playRF	index	411
+wait	duration	0.200
+playRF	index	404
+wait	duration	0.200
+playRF	index	375
+wait	duration	0.200
+playRF	index	372
+wait	duration	0.200
+playRF	index	371
+wait	duration	0.200
+playRF	index	402
+wait	duration	0.200
+playRF	index	418
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	365
+wait	duration	0.200
+playRF	index	414
+wait	duration	0.200
+playRF	index	376
+wait	duration	0.200
+playRF	index	397
+wait	duration	0.200
+playRF	index	442
+wait	duration	0.200
+playRF	index	412
+wait	duration	0.200
+playRF	index	424
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	366
+wait	duration	0.200
+playRF	index	384
+wait	duration	0.200
+playRF	index	406
+wait	duration	0.200
+playRF	index	403
+wait	duration	0.200
+playRF	index	423
+wait	duration	0.200
+playRF	index	447
+wait	duration	0.200
+playRF	index	435
+wait	duration	0.200
+playRF	index	393
+wait	duration	0.200
+playRF	index	395
+wait	duration	0.200
+playRF	index	417
+wait	duration	0.200
+playRF	index	444
+wait	duration	0.200
+playRF	index	434
+wait	duration	0.200
+playRF	index	428
+wait	duration	0.200
+playRF	index	392
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	457
+wait	duration	0.200
+playRF	index	387
+wait	duration	0.200
+playRF	index	413
+wait	duration	0.200
+playRF	index	377
+wait	duration	0.200
+playRF	index	446
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	456
+wait	duration	0.200
+playRF	index	425
+wait	duration	0.200
+playRF	index	386
+wait	duration	0.200
+playRF	index	452
+wait	duration	0.200
+playRF	index	441
+wait	duration	0.200
+playRF	index	438
+wait	duration	0.200
+playRF	index	427
+wait	duration	0.200
+playRF	index	394
+wait	duration	0.200
+playRF	index	416
+wait	duration	0.200
+playRF	index	432
+wait	duration	0.200
+playRF	index	382
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	453
+wait	duration	0.200
+playRF	index	373
+wait	duration	0.200
+playRF	index	396
+wait	duration	0.200
+playRF	index	451
+wait	duration	0.200
+playRF	index	405
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+
+newblock	22
+wait	duration	0.200
+playRF	index	467
+wait	duration	0.200
+playRF	index	471
+wait	duration	0.200
+playRF	index	152
+wait	duration	0.200
+playRF	index	138
+wait	duration	0.200
+playRF	index	474
+wait	duration	0.200
+playRF	index	123
+wait	duration	0.200
+playRF	index	102
+wait	duration	0.200
+playRF	index	122
+wait	duration	0.200
+playRF	index	472
+wait	duration	0.200
+playRF	index	486
+wait	duration	0.200
+playRF	index	132
+wait	duration	0.200
+playRF	index	121
+wait	duration	0.200
+playRF	index	142
+wait	duration	0.200
+playRF	index	125
+wait	duration	0.200
+playRF	index	148
+wait	duration	0.200
+playRF	index	473
+wait	duration	0.200
+playRF	index	103
+wait	duration	0.200
+playRF	index	482
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	483
+wait	duration	0.200
+playRF	index	485
+wait	duration	0.200
+playRF	index	476
+wait	duration	0.200
+playRF	index	458
+wait	duration	0.200
+playRF	index	492
+wait	duration	0.200
+playRF	index	133
+wait	duration	0.200
+playRF	index	475
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	151
+wait	duration	0.200
+playRF	index	147
+wait	duration	0.200
+playRF	index	112
+wait	duration	0.200
+playRF	index	104
+wait	duration	0.200
+playRF	index	495
+wait	duration	0.200
+playRF	index	116
+wait	duration	0.200
+playRF	index	114
+wait	duration	0.200
+playRF	index	111
+wait	duration	0.200
+playRF	index	496
+wait	duration	0.200
+playRF	index	137
+wait	duration	0.200
+playRF	index	118
+wait	duration	0.200
+playRF	index	117
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	487
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	143
+wait	duration	0.200
+playRF	index	477
+wait	duration	0.200
+playRF	index	461
+wait	duration	0.200
+playRF	index	105
+wait	duration	0.200
+playRF	index	146
+wait	duration	0.200
+playRF	index	145
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	141
+wait	duration	0.200
+playRF	index	494
+wait	duration	0.200
+playRF	index	135
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	493
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	127
+wait	duration	0.200
+playRF	index	144
+wait	duration	0.200
+playRF	index	113
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	466
+wait	duration	0.200
+playRF	index	463
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	491
+wait	duration	0.200
+playRF	index	484
+wait	duration	0.200
+playRF	index	115
+wait	duration	0.200
+playRF	index	126
+wait	duration	0.200
+playRF	index	128
+wait	duration	0.200
+playRF	index	106
+wait	duration	0.200
+playRF	index	462
+wait	duration	0.200
+playRF	index	124
+wait	duration	0.200
+playRF	index	136
+wait	duration	0.200
+playRF	index	464
+wait	duration	0.200
+playRF	index	481
+wait	duration	0.200
+playRF	index	131
+wait	duration	0.200
+playRF	index	465
+wait	duration	0.200
+playRF	index	497
+wait	duration	0.200
+playRF	index	134
+
+newblock	23
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	237
+wait	duration	0.200
+playRF	index	212
+wait	duration	0.200
+playRF	index	173
+wait	duration	0.200
+playRF	index	222
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	187
+wait	duration	0.200
+playRF	index	176
+wait	duration	0.200
+playRF	index	171
+wait	duration	0.200
+playRF	index	236
+wait	duration	0.200
+playRF	index	154
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	206
+wait	duration	0.200
+playRF	index	216
+wait	duration	0.200
+playRF	index	163
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	244
+wait	duration	0.200
+playRF	index	217
+wait	duration	0.200
+playRF	index	228
+wait	duration	0.200
+playRF	index	165
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	202
+wait	duration	0.200
+playRF	index	241
+wait	duration	0.200
+playRF	index	233
+wait	duration	0.200
+playRF	index	191
+wait	duration	0.200
+playRF	index	243
+wait	duration	0.200
+playRF	index	197
+wait	duration	0.200
+playRF	index	182
+wait	duration	0.200
+playRF	index	242
+wait	duration	0.200
+playRF	index	225
+wait	duration	0.200
+playRF	index	227
+wait	duration	0.200
+playRF	index	155
+wait	duration	0.200
+playRF	index	245
+wait	duration	0.200
+playRF	index	235
+wait	duration	0.200
+playRF	index	162
+wait	duration	0.200
+playRF	index	204
+wait	duration	0.200
+playRF	index	193
+wait	duration	0.200
+playRF	index	238
+wait	duration	0.200
+playRF	index	215
+wait	duration	0.200
+playRF	index	177
+wait	duration	0.200
+playRF	index	196
+wait	duration	0.200
+playRF	index	234
+wait	duration	0.200
+playRF	index	157
+wait	duration	0.200
+playRF	index	156
+wait	duration	0.200
+playRF	index	184
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	226
+wait	duration	0.200
+playRF	index	161
+wait	duration	0.200
+playRF	index	166
+wait	duration	0.200
+playRF	index	192
+wait	duration	0.200
+playRF	index	158
+wait	duration	0.200
+playRF	index	246
+wait	duration	0.200
+playRF	index	218
+wait	duration	0.200
+playRF	index	232
+wait	duration	0.200
+playRF	index	195
+wait	duration	0.200
+playRF	index	164
+wait	duration	0.200
+playRF	index	223
+wait	duration	0.200
+playRF	index	231
+wait	duration	0.200
+playRF	index	185
+wait	duration	0.200
+playRF	index	186
+wait	duration	0.200
+playRF	index	183
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	205
+wait	duration	0.200
+playRF	index	221
+wait	duration	0.200
+playRF	index	174
+wait	duration	0.200
+playRF	index	175
+wait	duration	0.200
+playRF	index	167
+wait	duration	0.200
+playRF	index	211
+wait	duration	0.200
+playRF	index	153
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	203
+wait	duration	0.200
+playRF	index	213
+wait	duration	0.200
+playRF	index	214
+wait	duration	0.200
+playRF	index	181
+wait	duration	0.200
+playRF	index	224
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	172
+wait	duration	0.200
+playRF	index	194
+
+newblock	24
+wait	duration	0.200
+playRF	index	302
+wait	duration	0.200
+playRF	index	271
+wait	duration	0.200
+playRF	index	256
+wait	duration	0.200
+playRF	index	306
+wait	duration	0.200
+playRF	index	335
+wait	duration	0.200
+playRF	index	313
+wait	duration	0.200
+playRF	index	331
+wait	duration	0.200
+playRF	index	321
+wait	duration	0.200
+playRF	index	303
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	326
+wait	duration	0.200
+playRF	index	266
+wait	duration	0.200
+playRF	index	334
+wait	duration	0.200
+playRF	index	318
+wait	duration	0.200
+playRF	index	257
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	315
+wait	duration	0.200
+playRF	index	273
+wait	duration	0.200
+playRF	index	295
+wait	duration	0.200
+playRF	index	265
+wait	duration	0.200
+playRF	index	267
+wait	duration	0.200
+playRF	index	277
+wait	duration	0.200
+playRF	index	341
+wait	duration	0.200
+playRF	index	264
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	314
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	281
+wait	duration	0.200
+playRF	index	338
+wait	duration	0.200
+playRF	index	304
+wait	duration	0.200
+playRF	index	272
+wait	duration	0.200
+playRF	index	336
+wait	duration	0.200
+playRF	index	262
+wait	duration	0.200
+playRF	index	296
+wait	duration	0.200
+playRF	index	284
+wait	duration	0.200
+playRF	index	305
+wait	duration	0.200
+playRF	index	327
+wait	duration	0.200
+playRF	index	322
+wait	duration	0.200
+playRF	index	275
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	287
+wait	duration	0.200
+playRF	index	254
+wait	duration	0.200
+playRF	index	317
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	294
+wait	duration	0.200
+playRF	index	311
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	251
+wait	duration	0.200
+playRF	index	263
+wait	duration	0.200
+playRF	index	248
+wait	duration	0.200
+playRF	index	286
+wait	duration	0.200
+playRF	index	261
+wait	duration	0.200
+playRF	index	253
+wait	duration	0.200
+playRF	index	292
+wait	duration	0.200
+playRF	index	282
+wait	duration	0.200
+playRF	index	323
+wait	duration	0.200
+playRF	index	325
+wait	duration	0.200
+playRF	index	337
+wait	duration	0.200
+playRF	index	324
+wait	duration	0.200
+playRF	index	276
+wait	duration	0.200
+playRF	index	332
+wait	duration	0.200
+playRF	index	328
+wait	duration	0.200
+playRF	index	312
+wait	duration	0.200
+playRF	index	333
+wait	duration	0.200
+playRF	index	297
+wait	duration	0.200
+playRF	index	285
+wait	duration	0.200
+playRF	index	247
+wait	duration	0.200
+playRF	index	255
+wait	duration	0.200
+playRF	index	252
+wait	duration	0.200
+playRF	index	293
+wait	duration	0.200
+playRF	index	291
+wait	duration	0.200
+playRF	index	274
+wait	duration	0.200
+playRF	index	316
+wait	duration	0.200
+playRF	index	258
+wait	duration	0.200
+playRF	index	283
+
+newblock	25
+wait	duration	0.200
+playRF	index	371
+wait	duration	0.200
+playRF	index	396
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	366
+wait	duration	0.200
+playRF	index	418
+wait	duration	0.200
+playRF	index	383
+wait	duration	0.200
+playRF	index	381
+wait	duration	0.200
+playRF	index	348
+wait	duration	0.200
+playRF	index	402
+wait	duration	0.200
+playRF	index	382
+wait	duration	0.200
+playRF	index	434
+wait	duration	0.200
+playRF	index	392
+wait	duration	0.200
+playRF	index	385
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	417
+wait	duration	0.200
+playRF	index	397
+wait	duration	0.200
+playRF	index	375
+wait	duration	0.200
+playRF	index	355
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	351
+wait	duration	0.200
+playRF	index	377
+wait	duration	0.200
+playRF	index	422
+wait	duration	0.200
+playRF	index	367
+wait	duration	0.200
+playRF	index	343
+wait	duration	0.200
+playRF	index	395
+wait	duration	0.200
+playRF	index	391
+wait	duration	0.200
+playRF	index	374
+wait	duration	0.200
+playRF	index	352
+wait	duration	0.200
+playRF	index	433
+wait	duration	0.200
+playRF	index	344
+wait	duration	0.200
+playRF	index	384
+wait	duration	0.200
+playRF	index	354
+wait	duration	0.200
+playRF	index	386
+wait	duration	0.200
+playRF	index	404
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	416
+wait	duration	0.200
+playRF	index	357
+wait	duration	0.200
+playRF	index	428
+wait	duration	0.200
+playRF	index	431
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	427
+wait	duration	0.200
+playRF	index	373
+wait	duration	0.200
+playRF	index	345
+wait	duration	0.200
+playRF	index	425
+wait	duration	0.200
+playRF	index	376
+wait	duration	0.200
+playRF	index	393
+wait	duration	0.200
+playRF	index	411
+wait	duration	0.200
+playRF	index	356
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	412
+wait	duration	0.200
+playRF	index	424
+wait	duration	0.200
+playRF	index	414
+wait	duration	0.200
+playRF	index	405
+wait	duration	0.200
+playRF	index	423
+wait	duration	0.200
+playRF	index	406
+wait	duration	0.200
+playRF	index	363
+wait	duration	0.200
+playRF	index	421
+wait	duration	0.200
+playRF	index	426
+wait	duration	0.200
+playRF	index	342
+wait	duration	0.200
+playRF	index	403
+wait	duration	0.200
+playRF	index	364
+wait	duration	0.200
+playRF	index	347
+wait	duration	0.200
+playRF	index	362
+wait	duration	0.200
+playRF	index	372
+wait	duration	0.200
+playRF	index	353
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	394
+wait	duration	0.200
+playRF	index	415
+wait	duration	0.200
+playRF	index	413
+wait	duration	0.200
+playRF	index	346
+wait	duration	0.200
+playRF	index	358
+wait	duration	0.200
+playRF	index	387
+wait	duration	0.200
+playRF	index	365
+wait	duration	0.200
+playRF	index	361
+wait	duration	0.200
+playRF	index	432
+
+newblock	26
+wait	duration	0.200
+playRF	index	117
+wait	duration	0.200
+playRF	index	467
+wait	duration	0.200
+playRF	index	124
+wait	duration	0.200
+playRF	index	453
+wait	duration	0.200
+playRF	index	104
+wait	duration	0.200
+playRF	index	458
+wait	duration	0.200
+playRF	index	441
+wait	duration	0.200
+playRF	index	446
+wait	duration	0.200
+playRF	index	125
+wait	duration	0.200
+playRF	index	115
+wait	duration	0.200
+playRF	index	103
+wait	duration	0.200
+playRF	index	122
+wait	duration	0.200
+playRF	index	116
+wait	duration	0.200
+playRF	index	445
+wait	duration	0.200
+playRF	index	487
+wait	duration	0.200
+playRF	index	486
+wait	duration	0.200
+playRF	index	497
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	111
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	438
+wait	duration	0.200
+playRF	index	476
+wait	duration	0.200
+playRF	index	465
+wait	duration	0.200
+playRF	index	471
+wait	duration	0.200
+playRF	index	443
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	112
+wait	duration	0.200
+playRF	index	118
+wait	duration	0.200
+playRF	index	485
+wait	duration	0.200
+playRF	index	464
+wait	duration	0.200
+playRF	index	484
+wait	duration	0.200
+playRF	index	474
+wait	duration	0.200
+playRF	index	121
+wait	duration	0.200
+playRF	index	435
+wait	duration	0.200
+playRF	index	475
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	456
+wait	duration	0.200
+playRF	index	495
+wait	duration	0.200
+playRF	index	482
+wait	duration	0.200
+playRF	index	493
+wait	duration	0.200
+playRF	index	454
+wait	duration	0.200
+playRF	index	473
+wait	duration	0.200
+playRF	index	496
+wait	duration	0.200
+playRF	index	114
+wait	duration	0.200
+playRF	index	463
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	102
+wait	duration	0.200
+playRF	index	106
+wait	duration	0.200
+playRF	index	113
+wait	duration	0.200
+playRF	index	436
+wait	duration	0.200
+playRF	index	123
+wait	duration	0.200
+playRF	index	105
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	466
+wait	duration	0.200
+playRF	index	492
+wait	duration	0.200
+playRF	index	437
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	444
+wait	duration	0.200
+playRF	index	442
+wait	duration	0.200
+playRF	index	494
+wait	duration	0.200
+playRF	index	491
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	452
+wait	duration	0.200
+playRF	index	457
+wait	duration	0.200
+playRF	index	448
+wait	duration	0.200
+playRF	index	447
+wait	duration	0.200
+playRF	index	472
+wait	duration	0.200
+playRF	index	462
+wait	duration	0.200
+playRF	index	477
+wait	duration	0.200
+playRF	index	126
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	127
+wait	duration	0.200
+playRF	index	481
+wait	duration	0.200
+playRF	index	461
+wait	duration	0.200
+playRF	index	483
+wait	duration	0.200
+playRF	index	455
+wait	duration	0.200
+playRF	index	451
+
+newblock	27
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	217
+wait	duration	0.200
+playRF	index	197
+wait	duration	0.200
+playRF	index	144
+wait	duration	0.200
+playRF	index	147
+wait	duration	0.200
+playRF	index	195
+wait	duration	0.200
+playRF	index	203
+wait	duration	0.200
+playRF	index	153
+wait	duration	0.200
+playRF	index	158
+wait	duration	0.200
+playRF	index	163
+wait	duration	0.200
+playRF	index	183
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	134
+wait	duration	0.200
+playRF	index	206
+wait	duration	0.200
+playRF	index	174
+wait	duration	0.200
+playRF	index	214
+wait	duration	0.200
+playRF	index	145
+wait	duration	0.200
+playRF	index	215
+wait	duration	0.200
+playRF	index	172
+wait	duration	0.200
+playRF	index	138
+wait	duration	0.200
+playRF	index	175
+wait	duration	0.200
+playRF	index	155
+wait	duration	0.200
+playRF	index	142
+wait	duration	0.200
+playRF	index	213
+wait	duration	0.200
+playRF	index	132
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	204
+wait	duration	0.200
+playRF	index	191
+wait	duration	0.200
+playRF	index	154
+wait	duration	0.200
+playRF	index	171
+wait	duration	0.200
+playRF	index	156
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	184
+wait	duration	0.200
+playRF	index	202
+wait	duration	0.200
+playRF	index	148
+wait	duration	0.200
+playRF	index	164
+wait	duration	0.200
+playRF	index	173
+wait	duration	0.200
+playRF	index	135
+wait	duration	0.200
+playRF	index	157
+wait	duration	0.200
+playRF	index	194
+wait	duration	0.200
+playRF	index	221
+wait	duration	0.200
+playRF	index	185
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	133
+wait	duration	0.200
+playRF	index	162
+wait	duration	0.200
+playRF	index	187
+wait	duration	0.200
+playRF	index	131
+wait	duration	0.200
+playRF	index	141
+wait	duration	0.200
+playRF	index	218
+wait	duration	0.200
+playRF	index	167
+wait	duration	0.200
+playRF	index	212
+wait	duration	0.200
+playRF	index	152
+wait	duration	0.200
+playRF	index	192
+wait	duration	0.200
+playRF	index	222
+wait	duration	0.200
+playRF	index	216
+wait	duration	0.200
+playRF	index	166
+wait	duration	0.200
+playRF	index	181
+wait	duration	0.200
+playRF	index	151
+wait	duration	0.200
+playRF	index	146
+wait	duration	0.200
+playRF	index	205
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	193
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	137
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	211
+wait	duration	0.200
+playRF	index	177
+wait	duration	0.200
+playRF	index	128
+wait	duration	0.200
+playRF	index	161
+wait	duration	0.200
+playRF	index	176
+wait	duration	0.200
+playRF	index	186
+wait	duration	0.200
+playRF	index	196
+wait	duration	0.200
+playRF	index	182
+wait	duration	0.200
+playRF	index	165
+wait	duration	0.200
+playRF	index	136
+wait	duration	0.200
+playRF	index	143
+
+newblock	28
+wait	duration	0.200
+playRF	index	281
+wait	duration	0.200
+playRF	index	312
+wait	duration	0.200
+playRF	index	233
+wait	duration	0.200
+playRF	index	282
+wait	duration	0.200
+playRF	index	257
+wait	duration	0.200
+playRF	index	291
+wait	duration	0.200
+playRF	index	274
+wait	duration	0.200
+playRF	index	244
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	237
+wait	duration	0.200
+playRF	index	271
+wait	duration	0.200
+playRF	index	275
+wait	duration	0.200
+playRF	index	283
+wait	duration	0.200
+playRF	index	246
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	315
+wait	duration	0.200
+playRF	index	231
+wait	duration	0.200
+playRF	index	306
+wait	duration	0.200
+playRF	index	254
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	294
+wait	duration	0.200
+playRF	index	305
+wait	duration	0.200
+playRF	index	293
+wait	duration	0.200
+playRF	index	225
+wait	duration	0.200
+playRF	index	243
+wait	duration	0.200
+playRF	index	264
+wait	duration	0.200
+playRF	index	224
+wait	duration	0.200
+playRF	index	297
+wait	duration	0.200
+playRF	index	247
+wait	duration	0.200
+playRF	index	263
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	255
+wait	duration	0.200
+playRF	index	267
+wait	duration	0.200
+playRF	index	261
+wait	duration	0.200
+playRF	index	311
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	285
+wait	duration	0.200
+playRF	index	296
+wait	duration	0.200
+playRF	index	287
+wait	duration	0.200
+playRF	index	277
+wait	duration	0.200
+playRF	index	241
+wait	duration	0.200
+playRF	index	227
+wait	duration	0.200
+playRF	index	252
+wait	duration	0.200
+playRF	index	223
+wait	duration	0.200
+playRF	index	286
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	295
+wait	duration	0.200
+playRF	index	314
+wait	duration	0.200
+playRF	index	242
+wait	duration	0.200
+playRF	index	304
+wait	duration	0.200
+playRF	index	248
+wait	duration	0.200
+playRF	index	273
+wait	duration	0.200
+playRF	index	302
+wait	duration	0.200
+playRF	index	232
+wait	duration	0.200
+playRF	index	235
+wait	duration	0.200
+playRF	index	256
+wait	duration	0.200
+playRF	index	266
+wait	duration	0.200
+playRF	index	226
+wait	duration	0.200
+playRF	index	272
+wait	duration	0.200
+playRF	index	258
+wait	duration	0.200
+playRF	index	228
+wait	duration	0.200
+playRF	index	234
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	262
+wait	duration	0.200
+playRF	index	245
+wait	duration	0.200
+playRF	index	313
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	284
+wait	duration	0.200
+playRF	index	292
+wait	duration	0.200
+playRF	index	238
+wait	duration	0.200
+playRF	index	303
+wait	duration	0.200
+playRF	index	236
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	276
+wait	duration	0.200
+playRF	index	265
+wait	duration	0.200
+playRF	index	253
+wait	duration	0.200
+playRF	index	251
+
+newblock	29
+wait	duration	0.200
+playRF	index	358
+wait	duration	0.200
+playRF	index	382
+wait	duration	0.200
+playRF	index	321
+wait	duration	0.200
+playRF	index	317
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	403
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	341
+wait	duration	0.200
+playRF	index	334
+wait	duration	0.200
+playRF	index	405
+wait	duration	0.200
+playRF	index	344
+wait	duration	0.200
+playRF	index	386
+wait	duration	0.200
+playRF	index	377
+wait	duration	0.200
+playRF	index	326
+wait	duration	0.200
+playRF	index	354
+wait	duration	0.200
+playRF	index	365
+wait	duration	0.200
+playRF	index	392
+wait	duration	0.200
+playRF	index	327
+wait	duration	0.200
+playRF	index	338
+wait	duration	0.200
+playRF	index	375
+wait	duration	0.200
+playRF	index	357
+wait	duration	0.200
+playRF	index	364
+wait	duration	0.200
+playRF	index	356
+wait	duration	0.200
+playRF	index	363
+wait	duration	0.200
+playRF	index	348
+wait	duration	0.200
+playRF	index	402
+wait	duration	0.200
+playRF	index	383
+wait	duration	0.200
+playRF	index	406
+wait	duration	0.200
+playRF	index	332
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	361
+wait	duration	0.200
+playRF	index	371
+wait	duration	0.200
+playRF	index	351
+wait	duration	0.200
+playRF	index	336
+wait	duration	0.200
+playRF	index	362
+wait	duration	0.200
+playRF	index	397
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	342
+wait	duration	0.200
+playRF	index	345
+wait	duration	0.200
+playRF	index	316
+wait	duration	0.200
+playRF	index	372
+wait	duration	0.200
+playRF	index	396
+wait	duration	0.200
+playRF	index	374
+wait	duration	0.200
+playRF	index	325
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	391
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	373
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	393
+wait	duration	0.200
+playRF	index	335
+wait	duration	0.200
+playRF	index	343
+wait	duration	0.200
+playRF	index	385
+wait	duration	0.200
+playRF	index	346
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	353
+wait	duration	0.200
+playRF	index	337
+wait	duration	0.200
+playRF	index	318
+wait	duration	0.200
+playRF	index	323
+wait	duration	0.200
+playRF	index	384
+wait	duration	0.200
+playRF	index	333
+wait	duration	0.200
+playRF	index	404
+wait	duration	0.200
+playRF	index	328
+wait	duration	0.200
+playRF	index	355
+wait	duration	0.200
+playRF	index	347
+wait	duration	0.200
+playRF	index	367
+wait	duration	0.200
+playRF	index	381
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	352
+wait	duration	0.200
+playRF	index	395
+wait	duration	0.200
+playRF	index	394
+wait	duration	0.200
+playRF	index	366
+wait	duration	0.200
+playRF	index	324
+wait	duration	0.200
+playRF	index	387
+wait	duration	0.200
+playRF	index	322
+wait	duration	0.200
+playRF	index	376
+wait	duration	0.200
+playRF	index	331
+
+newblock	30
+wait	duration	0.200
+playRF	index	418
+wait	duration	0.200
+playRF	index	485
+wait	duration	0.200
+playRF	index	428
+wait	duration	2
+play	index	46	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	465
+wait	duration	0.200
+playRF	index	424
+wait	duration	0.200
+playRF	index	461
+wait	duration	0.200
+playRF	index	446
+wait	duration	0.200
+playRF	index	434
+wait	duration	0.200
+playRF	index	452
+wait	duration	0.200
+playRF	index	423
+wait	duration	0.200
+playRF	index	481
+wait	duration	0.200
+playRF	index	476
+wait	duration	0.200
+playRF	index	451
+wait	duration	0.200
+playRF	index	472
+wait	duration	0.200
+playRF	index	495
+wait	duration	0.200
+playRF	index	457
+wait	duration	0.200
+playRF	index	417
+wait	duration	2
+play	index	52	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	411
+wait	duration	0.200
+playRF	index	436
+wait	duration	0.200
+playRF	index	458
+wait	duration	2
+play	index	49	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	484
+wait	duration	2
+play	index	48	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	441
+wait	duration	0.200
+playRF	index	414
+wait	duration	0.200
+playRF	index	471
+wait	duration	0.200
+playRF	index	483
+wait	duration	0.200
+playRF	index	445
+wait	duration	0.200
+playRF	index	435
+wait	duration	0.200
+playRF	index	477
+wait	duration	2
+play	index	42	interpolation	coarse	framerate	20	duration	2.005000e+01
+wait	duration	0.200
+playRF	index	454
+wait	duration	2
+play	index	50	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	487
+wait	duration	0.200
+playRF	index	467
+wait	duration	0.200
+playRF	index	464
+wait	duration	0.200
+playRF	index	427
+wait	duration	0.200
+playRF	index	491
+wait	duration	0.200
+playRF	index	496
+wait	duration	0.200
+playRF	index	437
+wait	duration	0.200
+playRF	index	474
+wait	duration	0.200
+playRF	index	413
+wait	duration	0.200
+playRF	index	425
+wait	duration	0.200
+playRF	index	426
+wait	duration	0.200
+playRF	index	462
+wait	duration	0.200
+playRF	index	438
+wait	duration	0.200
+playRF	index	473
+wait	duration	0.200
+playRF	index	494
+wait	duration	0.200
+playRF	index	431
+wait	duration	0.200
+playRF	index	447
+wait	duration	0.200
+playRF	index	421
+wait	duration	0.200
+playRF	index	493
+wait	duration	2
+play	index	51	interpolation	coarse	framerate	30
+wait	duration	0.200
+playRF	index	475
+wait	duration	0.200
+playRF	index	463
+wait	duration	0.200
+playRF	index	444
+wait	duration	0.200
+playRF	index	443
+wait	duration	0.200
+playRF	index	442
+wait	duration	0.200
+playRF	index	486
+wait	duration	0.200
+playRF	index	456
+wait	duration	2
+play	index	47	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	482
+wait	duration	0.200
+playRF	index	455
+wait	duration	0.200
+playRF	index	422
+wait	duration	0.200
+playRF	index	492
+wait	duration	0.200
+playRF	index	433
+wait	duration	2
+play	index	45	interpolation	nice	framerate	30
+wait	duration	0.200
+playRF	index	416
+wait	duration	0.200
+playRF	index	453
+wait	duration	0.200
+playRF	index	432
+wait	duration	0.200
+playRF	index	497
+wait	duration	0.200
+playRF	index	415
+wait	duration	0.200
+playRF	index	412
+wait	duration	0.200
+playRF	index	466
+wait	duration	0.200
+playRF	index	448
